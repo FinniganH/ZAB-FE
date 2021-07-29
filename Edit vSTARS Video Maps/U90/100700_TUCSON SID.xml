@@ -1,0 +1,16 @@
+  <VideoMap ShortName="TUS SID" LongName="TUCSON SID" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.9147222" StartLat="32.0952778" EndLon="-110.5833389" EndLat="32.3309361" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.5833389" StartLat="32.3309361" EndLon="-109.2630556" EndLat="32.2691667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.9147222" StartLat="32.0952778" EndLon="-110.4855278" EndLat="31.8940167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.4855278" StartLat="31.8940167" EndLon="-109.7583333" EndLat="32.0333333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.9147222" StartLat="32.0952778" EndLon="-111.4616944" EndLat="32.2817" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.4616944" StartLat="32.2817" EndLon="-112.6741667" EndLat="32.9563889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.9147222" StartLat="32.0952778" EndLon="-111.4893389" EndLat="32.9657889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.4893389" StartLat="32.9657889" EndLon="-111.9702778" EndLat="33.4330556" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

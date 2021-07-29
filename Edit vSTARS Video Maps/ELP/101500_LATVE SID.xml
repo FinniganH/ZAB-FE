@@ -1,0 +1,18 @@
+  <VideoMap ShortName="LATVE" LongName="LATVE SID" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.3179389" StartLat="31.7221028" EndLon="-106.2347694" EndLat="31.7244167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.2347694" StartLat="31.7244167" EndLon="-106.0812" EndLat="31.8344028" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1522" StartLat="31.8051389" EndLon="-106.0812" EndLat="31.8344028" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.0812" StartLat="31.8344028" EndLon="-105.9114278" EndLat="31.9527694" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.2483944" StartLat="31.8905694" EndLon="-106.1504167" EndLat="31.9388917" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1504167" StartLat="31.9388917" EndLon="-105.9114278" EndLat="31.9527694" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.9114278" StartLat="31.9527694" EndLon="-105.7740611" EndLat="32.0586611" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.7740611" StartLat="32.0586611" EndLon="-105.4213778" EndLat="32.4139944" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.4213778" StartLat="32.4139944" EndLon="-105.1344361" EndLat="32.7132611" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.1344361" StartLat="32.7132611" EndLon="-104.6212444" EndLat="33.3374778" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

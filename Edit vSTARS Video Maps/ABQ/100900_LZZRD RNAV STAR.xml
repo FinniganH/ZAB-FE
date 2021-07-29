@@ -1,0 +1,18 @@
+  <VideoMap ShortName="LZZRD" LongName="LZZRD RNAV STAR" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.6212444" StartLat="33.3374778" EndLon="-105.5939167" EndLat="34.1681111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.5939167" StartLat="34.1681111" EndLon="-105.3462778" EndLat="33.9590556" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.3462778" StartLat="33.9590556" EndLon="-105.8248611" EndLat="34.3686111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.8248611" StartLat="34.3686111" EndLon="-106.1500556" EndLat="34.4074167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1500556" StartLat="34.4074167" EndLon="-106.5644444" EndLat="34.4547222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5644444" StartLat="34.4547222" EndLon="-106.6190556" EndLat="34.5124722" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6190556" StartLat="34.5124722" EndLon="-106.6597222" EndLat="34.5779444" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6597222" StartLat="34.5779444" EndLon="-106.7456944" EndLat="34.7598611" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6190556" StartLat="34.5124722" EndLon="-106.5712222" EndLat="34.6806667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5712222" StartLat="34.6806667" EndLon="-106.5329167" EndLat="34.8148611" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

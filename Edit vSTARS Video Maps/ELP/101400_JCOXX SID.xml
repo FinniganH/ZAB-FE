@@ -1,0 +1,16 @@
+  <VideoMap ShortName="JCOXX" LongName="JCOXX SID" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.45195" StartLat="31.9487556" EndLon="-106.6164611" EndLat="31.9517722" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6164611" StartLat="31.9517722" EndLon="-108.7299583" EndLat="32.2099167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6164611" StartLat="31.9517722" EndLon="-108.7618972" EndLat="32.0159444" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.45195" StartLat="31.9487556" EndLon="-106.6093472" EndLat="32.0715889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6093472" StartLat="32.0715889" EndLon="-106.8986694" EndLat="32.2837333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8986694" StartLat="32.2837333" EndLon="-108.1636167" EndLat="33.2191" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8986694" StartLat="32.2837333" EndLon="-107.3808333" EndLat="32.9547278" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.3808333" StartLat="32.9547278" EndLon="-107.290575" EndLat="33.3266667" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

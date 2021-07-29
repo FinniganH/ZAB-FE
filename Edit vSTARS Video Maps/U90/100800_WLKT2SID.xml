@@ -1,0 +1,15 @@
+  <VideoMap ShortName="WLKT2" LongName="WLKT2SID" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.0670333" StartLat="32.2243528" EndLon="-110.977575" EndLat="32.2955108" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.977575" StartLat="32.2955108" EndLon="-110.5833389" EndLat="32.3309361" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.5833389" StartLat="32.3309361" EndLon="-109.2630556" EndLat="32.2691667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.0670333" StartLat="32.2243528" EndLon="-111.4616944" EndLat="32.2817" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.4616944" StartLat="32.2817" EndLon="-112.6741667" EndLat="32.9563889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.0670333" StartLat="32.2243528" EndLon="-111.4893389" EndLat="32.9657889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.0670333" StartLat="32.2243528" EndLon="-111.0319444" EndLat="32.5269444" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

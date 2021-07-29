@@ -1,0 +1,12 @@
+  <VideoMap ShortName="ZRWY22" LongName="RNAV ZRWY22" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.4840556" StartLat="32.0042222" EndLon="-106.3251944" EndLat="31.9256389" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1915222" StartLat="31.95045" EndLon="-106.2676917" EndLat="31.8961083" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1233333" StartLat="31.8650278" EndLon="-106.2036944" EndLat="31.8670833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.0850833" StartLat="31.7314722" EndLon="-106.2571389" EndLat="31.85925" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

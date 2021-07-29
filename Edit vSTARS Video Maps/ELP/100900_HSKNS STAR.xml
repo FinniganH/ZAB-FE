@@ -1,0 +1,11 @@
+  <VideoMap ShortName="HSKNS" LongName="HSKNS STAR" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.7083333" StartLat="31.8440444" EndLon="-107.0403889" EndLat="31.833875" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.0403889" StartLat="31.833875" EndLon="-106.8862528" EndLat="31.8124972" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8862528" StartLat="31.8124972" EndLon="-106.7125472" EndLat="31.7882167" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

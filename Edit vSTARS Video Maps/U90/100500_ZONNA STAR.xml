@@ -1,0 +1,15 @@
+  <VideoMap ShortName="ZONNA" LongName="ZONNA STAR" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-109.2630556" StartLat="32.2691667" EndLon="-109.8486889" EndLat="32.2092722" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.2725" StartLat="31.9516667" EndLon="-109.2622306" EndLat="32.1359444" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.2819444" StartLat="31.8158333" EndLon="-109.2622306" EndLat="32.1359444" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-109.2622306" StartLat="32.1359444" EndLon="-109.8486889" EndLat="32.2092722" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-109.8486889" StartLat="32.2092722" EndLon="-110.3308944" EndLat="32.159275" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.3308944" StartLat="32.159275" EndLon="-110.8578472" EndLat="32.1884667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.8578472" StartLat="32.1884667" EndLon="-111.0780333" EndLat="32.3756361" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

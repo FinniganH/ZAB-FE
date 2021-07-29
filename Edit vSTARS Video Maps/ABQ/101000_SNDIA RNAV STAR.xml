@@ -1,0 +1,18 @@
+  <VideoMap ShortName="SNDIA" LongName="SNDIA RNAV STAR" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.11575" StartLat="36.6641944" EndLon="-106.2532222" EndLat="36.3556111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.2532222" StartLat="36.3556111" EndLon="-106.3570389" EndLat="36.1198194" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.3570389" StartLat="36.1198194" EndLon="-106.4482222" EndLat="35.9082778" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.4482222" StartLat="35.9082778" EndLon="-106.5764722" EndLat="35.5937222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.4931944" StartLat="35.7017222" EndLon="-106.1505833" EndLat="35.6376389" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1505833" StartLat="35.6376389" EndLon="-106.5764722" EndLat="35.5937222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5764722" StartLat="35.5937222" EndLon="-106.63425" EndLat="35.4864444" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.63425" StartLat="35.4864444" EndLon="-106.7405" EndLat="35.2889167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7405" StartLat="35.2889167" EndLon="-106.5991389" EndLat="35.2224167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7405" StartLat="35.2889167" EndLon="-106.8253333" EndLat="35.1508056" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

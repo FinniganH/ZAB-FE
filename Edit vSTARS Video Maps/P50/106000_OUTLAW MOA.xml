@@ -1,0 +1,20 @@
+  <VideoMap ShortName="OUTLAW " LongName="OUTLAW MOA" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+      <NamedColor Red="255" Green="0" Blue="0" Name="RED" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-110.5" StartLat="33.5777778" EndLon="-110.5" EndLat="32.675" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-110.5" StartLat="32.675" EndLon="-110.6333333" EndLat="32.7" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-110.6333333" StartLat="32.7" EndLon="-111.15" EndLat="32.9869444" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-111.15" StartLat="32.9869444" EndLon="-111.3288889" EndLat="33.0863889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-111.3288889" StartLat="33.0863889" EndLon="-111.3833333" EndLat="33.1166667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-111.3833333" StartLat="33.1166667" EndLon="-111.3833333" EndLat="33.4222222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-111.3833333" StartLat="33.4222222" EndLon="-111.2108333" EndLat="33.4433333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-111.2108333" StartLat="33.4433333" EndLon="-110.7625" EndLat="33.4916667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-110.7625" StartLat="33.4916667" EndLon="-110.4997222" EndLat="33.5777778" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-111.3288889" StartLat="33.0863889" EndLon="-110.9583333" EndLat="32.9916667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="RED" StartLon="-110.9583333" StartLat="32.9916667" EndLon="-110.5" EndLat="32.7965972" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

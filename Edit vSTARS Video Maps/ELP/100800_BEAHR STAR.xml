@@ -1,0 +1,13 @@
+  <VideoMap ShortName="BEAHR" LongName="BEAHR STAR" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.4389722" StartLat="31.4518333" EndLon="-104.5356667" EndLat="31.4620556" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.5356667" StartLat="31.4620556" EndLon="-105.6438333" EndLat="31.5736944" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.6438333" StartLat="31.5736944" EndLon="-105.7989722" EndLat="31.5885556" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.7989722" StartLat="31.5885556" EndLon="-106.0231944" EndLat="31.7006111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.0231944" StartLat="31.7006111" EndLon="-106.0850833" EndLat="31.7314722" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

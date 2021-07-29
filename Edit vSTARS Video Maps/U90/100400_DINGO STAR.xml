@@ -1,0 +1,13 @@
+  <VideoMap ShortName="DINGO" LongName="DINGO STAR" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-112.6741667" StartLat="32.9563889" EndLon="-111.6319972" EndLat="32.5508611" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.9702778" StartLat="33.4330556" EndLon="-111.9086111" EndLat="32.8858333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.9086111" StartLat="32.8858333" EndLon="-111.6319972" EndLat="32.5508611" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.6319972" StartLat="32.5508611" EndLon="-111.5443667" EndLat="32.49565" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.5443667" StartLat="32.49565" EndLon="-111.3391722" EndLat="32.3658722" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

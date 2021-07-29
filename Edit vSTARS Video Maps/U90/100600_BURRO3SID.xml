@@ -1,0 +1,17 @@
+  <VideoMap ShortName="BURRO3" LongName="BURRO3SID" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.8535417" StartLat="32.0428806" EndLon="-110.7375861" EndLat="31.9409667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.7375861" StartLat="31.9409667" EndLon="-110.4855278" EndLat="31.8940167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.4855278" StartLat="31.8940167" EndLon="-109.7583333" EndLat="32.0333333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.8535417" StartLat="32.0428806" EndLon="-110.9521417" EndLat="31.9587861" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.9521417" StartLat="31.9587861" EndLon="-111.1966417" EndLat="32.0789306" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.1966417" StartLat="32.0789306" EndLon="-111.4616944" EndLat="32.2817" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.4616944" StartLat="32.2817" EndLon="-112.6741667" EndLat="32.9563889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.1966417" StartLat="32.0789306" EndLon="-111.4893389" EndLat="32.9657889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.1966417" StartLat="32.0789306" EndLon="-111.0319444" EndLat="32.5269444" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

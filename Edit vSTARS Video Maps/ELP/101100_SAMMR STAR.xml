@@ -1,0 +1,18 @@
+  <VideoMap ShortName="SAMMR" LongName="SAMMR STAR" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.6212444" StartLat="33.3374778" EndLon="-105.1344361" EndLat="32.7132611" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.1344361" StartLat="32.7132611" EndLon="-105.3206694" EndLat="32.4519278" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.3206694" StartLat="32.4519278" EndLon="-105.5369833" EndLat="32.1462889" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.5369833" StartLat="32.1462889" EndLon="-105.7042778" EndLat="31.9764861" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.7042778" StartLat="31.9764861" EndLon="-105.9054222" EndLat="31.8728833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.4007389" StartLat="31.9889917" EndLon="-104.4980417" EndLat="31.9791833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.4980417" StartLat="31.9791833" EndLon="-105.0264" EndLat="31.9245278" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.0264" StartLat="31.9245278" EndLon="-105.4826111" EndLat="31.8756333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.4826111" StartLat="31.8756333" EndLon="-105.9054222" EndLat="31.8728833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.9054222" StartLat="31.8728833" EndLon="-106.1233583" EndLat="31.8650528" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

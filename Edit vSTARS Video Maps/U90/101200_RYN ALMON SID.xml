@@ -1,0 +1,12 @@
+  <VideoMap ShortName="ALMON" LongName="RYN ALMON SID" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.1625719" StartLat="32.1452419" EndLon="-111.1326306" EndLat="32.1543556" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.1326306" StartLat="32.1543556" EndLon="-111.4947583" EndLat="32.38355" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.1793031" StartLat="32.14015" EndLon="-111.2255028" EndLat="32.1260806" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-111.2255028" StartLat="32.1260806" EndLon="-111.4947583" EndLat="32.38355" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

@@ -1,0 +1,14 @@
+  <VideoMap ShortName="TDOWN" LongName="TDOWN SID" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.2347694" StartLat="31.7244167" EndLon="-106.1093083" EndLat="31.7895306" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.2526806" StartLat="31.7874111" EndLon="-106.1484778" EndLat="31.7899639" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.2689" StartLat="31.8572583" EndLon="-106.1484778" EndLat="31.7899639" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1484778" StartLat="31.7899639" EndLon="-106.1093083" EndLat="31.7895306" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1093083" StartLat="31.7895306" EndLon="-105.7000222" EndLat="31.7843056" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.7000222" StartLat="31.7843056" EndLon="-105.0868111" EndLat="31.7481167" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

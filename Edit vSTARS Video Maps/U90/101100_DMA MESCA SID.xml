@@ -1,0 +1,9 @@
+  <VideoMap ShortName="MESCA" LongName="DMA MESCA SID" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-110.8867222" StartLat="32.1601667" EndLon="-110.4855278" EndLat="31.8940167" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

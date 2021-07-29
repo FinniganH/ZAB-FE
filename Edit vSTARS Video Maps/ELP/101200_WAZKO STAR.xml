@@ -1,0 +1,14 @@
+  <VideoMap ShortName="WAZKO" LongName="WAZKO STAR" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.290575" StartLat="33.3266667" EndLon="-107.3808333" EndLat="32.9547278" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.3808333" StartLat="32.9547278" EndLon="-107.0205444" EndLat="32.5496639" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.0205444" StartLat="32.5496639" EndLon="-106.6636778" EndLat="32.1202917" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6636778" StartLat="32.1202917" EndLon="-106.6258833" EndLat="32.0393028" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6258833" StartLat="32.0393028" EndLon="-106.4840611" EndLat="32.0042417" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6636778" StartLat="32.1202917" EndLon="-106.6316111" EndLat="31.8328361" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>

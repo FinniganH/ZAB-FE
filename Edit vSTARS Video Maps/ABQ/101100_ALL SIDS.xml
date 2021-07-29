@@ -1,0 +1,120 @@
+  <VideoMap ShortName="ALL SIDS" LongName="ALL SIDS" STARSGroup="B" STARSTDMOnly="false" VisibleInList="true">
+    <Colors>
+      <NamedColor Red="80" Green="80" Blue="40" Name="R80G80B40" />
+    </Colors>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8163889" StartLat="35.0438889" EndLon="-109.1544444" EndLat="34.9658333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8163889" StartLat="35.0438889" EndLon="-108.8725" EndLat="35.4761111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8163889" StartLat="35.0438889" EndLon="-106.92965" EndLat="36.0211972" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.92965" StartLat="36.0211972" EndLon="-108.0988889" EndLat="36.7483333" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6800556" StartLat="34.9809167" EndLon="-106.8165556" EndLat="35.0196111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8165556" StartLat="35.0196111" EndLon="-106.9246944" EndLat="35.0476389" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8163889" StartLat="35.0438889" EndLon="-106.9246944" EndLat="35.0476389" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.9246944" StartLat="35.0476389" EndLon="-107.2628889" EndLat="35.0654167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.2628889" StartLat="35.0654167" EndLon="-109.1544444" EndLat="34.9658333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.9246944" StartLat="35.0476389" EndLon="-107.2526944" EndLat="35.1653333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.2526944" StartLat="35.1653333" EndLon="-108.3716667" EndLat="35.3421944" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-108.3716667" StartLat="35.3421944" EndLon="-108.8725" EndLat="35.4761111" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.78325" StartLat="35.0667778" EndLon="-106.7997778" EndLat="35.1426667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7997778" StartLat="35.1426667" EndLon="-106.8258056" EndLat="35.21375" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8258056" StartLat="35.21375" EndLon="-106.8611944" EndLat="35.4252778" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8611944" StartLat="35.4252778" EndLon="-106.9430278" EndLat="35.95575" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7370833" StartLat="34.9290833" EndLon="-106.7977778" EndLat="34.8559167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7977778" StartLat="34.8559167" EndLon="-106.8089167" EndLat="34.4818333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8089167" StartLat="34.4818333" EndLon="-106.9030556" EndLat="34.0225" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7977778" StartLat="34.8559167" EndLon="-107.0553611" EndLat="34.6007778" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.0553611" StartLat="34.6007778" EndLon="-107.7255833" EndLat="34.4329167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.7255833" StartLat="34.4329167" EndLon="-109.1436111" EndLat="34.4241667" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7370833" StartLat="34.9290833" EndLon="-106.61575" EndLat="34.8340278" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.61575" StartLat="34.8340278" EndLon="-106.5223333" EndLat="34.8110556" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5223333" StartLat="34.8110556" EndLon="-106.1181389" EndLat="34.7570833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1181389" StartLat="34.7570833" EndLon="-104.6268611" EndLat="34.7026667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.6268611" StartLat="34.7026667" EndLon="-102.8397222" EndLat="34.495" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5223333" StartLat="34.8110556" EndLon="-106.1893333" EndLat="34.6823056" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1893333" StartLat="34.6823056" EndLon="-105.6367222" EndLat="34.4679722" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.6367222" StartLat="34.4679722" EndLon="-105.2448889" EndLat="33.9892222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.2448889" StartLat="33.9892222" EndLon="-104.6211111" EndLat="33.3375" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7095556" StartLat="35.1748889" EndLon="-106.6546944" EndLat="35.1895" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6546944" StartLat="35.1895" EndLon="-106.5508056" EndLat="35.2171111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5508056" StartLat="35.2171111" EndLon="-106.3977222" EndLat="35.2406111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.3977222" StartLat="35.2406111" EndLon="-105.3605" EndLat="35.4151389" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5508056" StartLat="35.2171111" EndLon="-106.41825" EndLat="35.2566389" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.41825" StartLat="35.2566389" EndLon="-105.1355556" EndLat="35.6575" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5487222" StartLat="35.0438333" EndLon="-106.5999444" EndLat="35.1996944" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5999444" StartLat="35.1996944" EndLon="-106.5861944" EndLat="35.2834167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5861944" StartLat="35.2834167" EndLon="-106.4838333" EndLat="35.3557222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.4838333" StartLat="35.3557222" EndLon="-105.3605" EndLat="35.4151389" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.3605" StartLat="35.4151389" EndLon="-103.5986111" EndLat="35.1822222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.4838333" StartLat="35.3557222" EndLon="-105.1355556" EndLat="35.6575" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5487222" StartLat="35.0438333" EndLon="-106.7177778" EndLat="35.2375833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7177778" StartLat="35.2375833" EndLon="-106.8611944" EndLat="35.4252778" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8611944" StartLat="35.4252778" EndLon="-106.9405" EndLat="35.9390278" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7039167" StartLat="35.049" EndLon="-106.7370833" EndLat="34.9290833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7370833" StartLat="34.9290833" EndLon="-106.1181389" EndLat="34.7570833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1181389" StartLat="34.7570833" EndLon="-104.6268611" EndLat="34.7026667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.6268611" StartLat="34.7026667" EndLon="-102.8397222" EndLat="34.495" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7370833" StartLat="34.9290833" EndLon="-106.1893333" EndLat="34.6823056" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1893333" StartLat="34.6823056" EndLon="-105.6367222" EndLat="34.4679722" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.6367222" StartLat="34.4679722" EndLon="-105.2448889" EndLat="33.9892222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.2448889" StartLat="33.9892222" EndLon="-104.6211111" EndLat="33.3375" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7370833" StartLat="34.9290833" EndLon="-106.8089167" EndLat="34.4818333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.8089167" StartLat="34.4818333" EndLon="-106.9030556" EndLat="34.0225" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7370833" StartLat="34.9290833" EndLon="-107.0553611" EndLat="34.6007778" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.0553611" StartLat="34.6007778" EndLon="-107.7255833" EndLat="34.4329167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.7255833" StartLat="34.4329167" EndLon="-109.1436111" EndLat="34.4241667" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5102778" StartLat="34.9860556" EndLon="-106.5136111" EndLat="34.9411667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5136111" StartLat="34.9411667" EndLon="-106.5162222" EndLat="34.8896389" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5162222" StartLat="34.8896389" EndLon="-106.5185278" EndLat="34.8047222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5185278" StartLat="34.8047222" EndLon="-106.1181389" EndLat="34.7570833" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1181389" StartLat="34.7570833" EndLon="-104.6268611" EndLat="34.7026667" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-104.6268611" StartLat="34.7026667" EndLon="-102.8397222" EndLat="34.495" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5185278" StartLat="34.8047222" EndLon="-106.1893333" EndLat="34.6823056" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.1893333" StartLat="34.6823056" EndLon="-105.6367222" EndLat="34.4679722" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.6367222" StartLat="34.4679722" EndLon="-105.2448889" EndLat="33.9892222" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-105.2448889" StartLat="33.9892222" EndLon="-104.6212444" EndLat="33.3374778" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5185278" StartLat="34.8047222" EndLon="-106.63175" EndLat="34.6339167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.63175" StartLat="34.6339167" EndLon="-106.7686667" EndLat="34.4831944" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7686667" StartLat="34.4831944" EndLon="-106.9030556" EndLat="34.0225" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.5185278" StartLat="34.8047222" EndLon="-106.6893333" EndLat="34.7439444" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.6893333" StartLat="34.7439444" EndLon="-107.0553611" EndLat="34.6007778" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.0553611" StartLat="34.6007778" EndLon="-107.7255833" EndLat="34.4329167" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.7255833" StartLat="34.4329167" EndLon="-109.1436111" EndLat="34.4241667" Style="Solid" Thickness="0" />
+    </Elements>
+    <Elements>
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.7596944" StartLat="35.0915278" EndLon="-106.9188889" EndLat="35.1338611" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.9188889" StartLat="35.1338611" EndLon="-107.2526944" EndLat="35.1653333" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.2526944" StartLat="35.1653333" EndLon="-108.3716667" EndLat="35.3421944" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-108.3716667" StartLat="35.3421944" EndLon="-108.8725" EndLat="35.4761111" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-106.9188889" StartLat="35.1338611" EndLon="-107.2674722" EndLat="35.0375278" Style="Solid" Thickness="0" />
+      <Element xsi:type="Line" Color="R80G80B40" StartLon="-107.2674722" StartLat="35.0375278" EndLon="-109.1544444" EndLat="34.9658333" Style="Solid" Thickness="0" />
+    </Elements>
+  </VideoMap>
