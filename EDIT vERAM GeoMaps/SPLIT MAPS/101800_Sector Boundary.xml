@@ -23,5 +23,7 @@
             <Element xsi:type="Line" Filters="" StartLat="32.9647222" StartLon="-106.8638889" EndLat="32.9211111" EndLon="-106.9480556" />
             <Element xsi:type="Line" Filters="" StartLat="33.6430556" StartLon="-106.5855556" EndLat="33.5733333" EndLon="-106.5319444" />
             <Element xsi:type="Line" Filters="" StartLat="33.6316667" StartLon="-106.5169444" EndLat="33.5855556" EndLon="-106.6005556" />
+			<Element xsi:type="Line" Filters="" StartLat="33.6430556" StartLon="-106.5855556" EndLat="33.5733333" EndLon="-106.5319444" />
+            <Element xsi:type="Line" Filters="" StartLat="33.6316667" StartLon="-106.5169444" EndLat="33.5855556" EndLon="-106.6005556" />
           </Elements>
         </GeoMapObject>

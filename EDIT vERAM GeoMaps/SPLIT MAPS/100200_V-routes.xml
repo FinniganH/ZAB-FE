@@ -1,5 +1,5 @@
         <GeoMapObject Description="V-routes" TdmOnly="false">
-          <LineDefaults Bcg="5" Filters="4" Style="Solid" Thickness="1" />
+          <LineDefaults Bcg="4" Filters="4" Style="Solid" Thickness="1" />
           <Elements>
             <Element xsi:type="Line" Filters="" StartLat="31.7959528" StartLon="-105.0083222" EndLat="32.1239583" EndLon="-104.4524861" />
             <Element xsi:type="Line" Filters="" StartLat="32.1429389" StartLon="-104.420175" EndLat="32.2092778" EndLon="-104.3070111" />

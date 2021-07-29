@@ -1,7 +1,0 @@
-        <GeoMapObject Description="sectors" TdmOnly="false">
-          <LineDefaults Bcg="2" Filters="2" Style="ShortDashed" Thickness="1" />
-          <Elements>
-            <Element xsi:type="Line" Filters="" StartLat="33.6430556" StartLon="-106.5855556" EndLat="33.5733333" EndLon="-106.5319444" />
-            <Element xsi:type="Line" Filters="" StartLat="33.6316667" StartLon="-106.5169444" EndLat="33.5855556" EndLon="-106.6005556" />
-          </Elements>
-        </GeoMapObject>
