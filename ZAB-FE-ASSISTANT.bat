@@ -17,7 +17,7 @@ ECHO the user has access to the ZAB FACILITY DROPBOX
 ECHO directories and that Dropbox is installed on the
 echo C: drive like so:
 ECHO.
-ECHO C:\Users\skyla\OneDrive\Documents\ZAB-FE\ZAB-FE
+ECHO C:\Users\skyla\OneDrive\Documents\Github\ZAB-FE
 ECHO.
 ECHO.
 
@@ -214,13 +214,13 @@ ECHO.
 ECHO.
 ECHO Is this where you want all of the individual .xml files to be placed.
 ECHO.
-ECHO  %userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\...
+ECHO  %userprofile%\OneDrive\Documents\Github\ZAB-FE\...
 ECHO   ...EDIT vSTARS Video Maps\%FAC_ID%
 ECHO.
 ECHO.
 
 SET /P USERSELECT=Type Y or N and press Enter: 
-	if /i %USERSELECT%==Y set TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vSTARS Video Maps\%FAC_ID%
+	if /i %USERSELECT%==Y set TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vSTARS Video Maps\%FAC_ID%
 	if /i %USERSELECT%==Y GOTO STRT_VMSPLIT
 	if /i %USERSELECT%==N GOTO CSE_VMTAR_DIR
 	ECHO.
@@ -405,7 +405,7 @@ ECHO.
 ECHO.
 ECHO Is this where you want all of the individual .xml files to be placed.
 ECHO.
-ECHO  %userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\...
+ECHO  %userprofile%\OneDrive\Documents\Github\ZAB-FE\...
 ECHO   ...EDIT vERAM GeoMaps\SPLIT MAPS
 ECHO.
 ECHO.
@@ -413,7 +413,7 @@ ECHO.
 :TAR_DIR_CHOICE
 
 SET /P USERSELECT=Type Y or N and press Enter: 
-	if /i %USERSELECT%==Y set TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+	if /i %USERSELECT%==Y set TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 	if /i %USERSELECT%==Y GOTO STRT_GEOSPLIT
 	if /i %USERSELECT%==N GOTO CSE_TAR_DIR
 	ECHO.
@@ -601,7 +601,7 @@ SET /P GOAL=Type S or E and press Enter:
 
 CLS
 
-CD /D "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vSTARS Video Maps"
+CD /D "%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vSTARS Video Maps"
 
 ECHO.
 ECHO.
@@ -615,7 +615,7 @@ ECHO **********  ERROR  **********
 ECHO.
 ECHO  DIRECTORY NOT FOUND:
 ECHO.
-ECHO  %userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\...
+ECHO  %userprofile%\OneDrive\Documents\Github\ZAB-FE\...
 ECHO   ...EDIT vSTARS Video Maps\%FAC_ID%
 ECHO.
 ECHO  TRY AGAIN...
@@ -635,7 +635,7 @@ ECHO.
 ECHO.
 ECHO Is this where all of the .xml files that you want to combine are located?
 ECHO.
-ECHO  %userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\...
+ECHO  %userprofile%\OneDrive\Documents\Github\ZAB-FE\...
 ECHO   ...EDIT vSTARS Video Maps\%FAC_ID%
 ECHO.
 ECHO.
@@ -645,7 +645,7 @@ ECHO.
 set USERSELECT=Not_set
 
 SET /P USERSELECT=Type Y or N and press Enter: 
-	if /i %USERSELECT%==Y set SOURCE_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vSTARS Video Maps\%FAC_ID%
+	if /i %USERSELECT%==Y set SOURCE_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vSTARS Video Maps\%FAC_ID%
 	if /i %USERSELECT%==Y GOTO STRT_COMBVM
 	if /i %USERSELECT%==N GOTO VM-SRC_DIR
 	ECHO.
@@ -757,7 +757,7 @@ ECHO.
 ECHO.
 ECHO Is this where all of the .xml files that you want to combine are located?
 ECHO.
-ECHO  %userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\...
+ECHO  %userprofile%\OneDrive\Documents\Github\ZAB-FE\...
 ECHO   ...EDIT vERAM GeoMaps\SPLIT MAPS
 ECHO.
 ECHO.
@@ -767,7 +767,7 @@ ECHO.
 set USERSELECT=Not_set
 
 SET /P USERSELECT=Type Y or N and press Enter: 
-	if /i %USERSELECT%==Y set SOURCE_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+	if /i %USERSELECT%==Y set SOURCE_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 	if /i %USERSELECT%==Y GOTO STRT_COMBGEO
 	if /i %USERSELECT%==N GOTO CSE_SRC_DIR
 	ECHO.
@@ -1026,7 +1026,7 @@ ECHO.
 
 :ALIAS
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT ALIAS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT ALIAS
 SET FILE_NAME_ENDING=_AIRPORT ISR.txt
 
 CD "%TARGET_DIR%"
@@ -1074,7 +1074,7 @@ SET FILE_NAME_ENDING=_FAA CHART RECALL.txt
 
 :VRC_APT
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\05_AIRPORT
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\05_AIRPORT
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1085,7 +1085,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_ARTCC_HI
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\09_ARTCC_HIGH
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\09_ARTCC_HIGH
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1096,7 +1096,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_ARTCC_LO
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\10_ARTCC_LOW
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\10_ARTCC_LOW
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1107,7 +1107,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_AWY_HI
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\14_HIGH_AIRWAY
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\14_HIGH_AIRWAY
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1118,7 +1118,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_AWY_LO
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\13_LOW_AIRWAY
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\13_LOW_AIRWAY
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1129,7 +1129,7 @@ CD "%SOURCE_DIR%\VRC"
 
 rem :VRC_LABELS
 
-rem SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\17_LABELS
+rem SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\17_LABELS
 
 rem CD "%TARGET_DIR%"
 rem 	DEL /Q *.txt>nul
@@ -1140,7 +1140,7 @@ rem 	ECHO VRC - LABELS
 
 :VRC_NDB
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\04_NDB
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\04_NDB
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1151,7 +1151,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_VOR
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\03_VOR
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\03_VOR
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1162,7 +1162,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_RWY
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\06_RUNWAY
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\06_RUNWAY
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1173,7 +1173,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_FIX
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\07_FIXES
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\07_FIXES
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1184,7 +1184,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_SID
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\11_SID
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\11_SID
 SET FILE_NAME_ENDING=_All_DP_Combined.txt
 
 CD "%TARGET_DIR%"
@@ -1198,7 +1198,7 @@ CD "%SOURCE_DIR%\VRC\[SID]"
 
 :VRC_STAR
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT\11_SID
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\11_SID
 SET FILE_NAME_ENDING=_All_STAR_Combined.txt
 
 CD "%TARGET_DIR%"
@@ -1212,7 +1212,7 @@ CD "%SOURCE_DIR%\VRC\[STAR]"
 
 :vERAM_APT_GEOMAP
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 SET FILE_NAME_ENDING=_APT.xml
 
 CD "%TARGET_DIR%"
@@ -1224,7 +1224,7 @@ CD "%SOURCE_DIR%\VERAM"
 
 :vERAM_NAV_GEOMAP
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 SET FILE_NAME_ENDING=_NAVAIDS.xml
 
 CD "%TARGET_DIR%"
@@ -1236,7 +1236,7 @@ CD "%SOURCE_DIR%\VERAM"
 
 :vERAM_WX_GEOMAP
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 SET FILE_NAME_ENDING=_WX STATIONS
 
 CD "%TARGET_DIR%"
@@ -1262,7 +1262,7 @@ ECHO vERAM - WX STATIONS GEOMAP    ***Changed TDM from False to True***
 
 :vERAM_AWY_GEOMAP
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 SET FILE_NAME_ENDING=_AIRWAYS.xml
 
 CD "%TARGET_DIR%"
@@ -1274,7 +1274,7 @@ CD "%SOURCE_DIR%\VERAM"
 
 :vERAM_DP_GEOMAP
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 SET FILE_NAME_ENDING=_ALL_DPs.xml
 
 CD "%TARGET_DIR%"
@@ -1286,7 +1286,7 @@ CD "%SOURCE_DIR%\VERAM"
 
 :vERAM_STAR_GEOMAP
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 SET FILE_NAME_ENDING=_ALL_STARs.xml
 
 CD "%TARGET_DIR%"
@@ -1298,7 +1298,7 @@ CD "%SOURCE_DIR%\VERAM"
 
 :vERAM_APT_TXT_GEOMAP
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 SET FILE_NAME_ENDING=_AIRPORT_TEXT.xml
 
 CD "%TARGET_DIR%"
@@ -1310,7 +1310,7 @@ CD "%SOURCE_DIR%\VERAM"
 
 :vERAM_NAV_TXT_GEOMAP
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT vERAM GeoMaps\SPLIT MAPS
 SET FILE_NAME_ENDING=_NAVAID_TEXT.xml
 
 CD "%TARGET_DIR%"
@@ -1322,7 +1322,7 @@ CD "%SOURCE_DIR%\VERAM"
 
 :ERAM_NAVDATA
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vERAM
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vERAM
 
 CD "%SOURCE_DIR%\VERAM"
 	TYPE "Airports.xml">"%TARGET_DIR%\Airports.xml"
@@ -1331,7 +1331,7 @@ CD "%SOURCE_DIR%\VERAM"
 
 :STARS_NAVDATA
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vSTARS
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vSTARS
 
 CD "%SOURCE_DIR%\VSTARS"
 	TYPE "Airports.xml">"%TARGET_DIR%\Airports.xml"
@@ -1411,9 +1411,9 @@ ECHO.
 
 PAUSE
 
-SET PR_SCT_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\SECTOR FILES
+SET PR_SCT_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\SECTOR FILES
 
-SET EDIT_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT SCT
+SET EDIT_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT
 
 
 :CLEAR_PRE-RELEASE_SCT2
@@ -1644,9 +1644,9 @@ ECHO.
 
 PAUSE
 
-SET PR_ALIAS_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\ALIAS FILES
+SET PR_ALIAS_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\ALIAS FILES
 
-SET EDIT_DIR=%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\EDIT ALIAS
+SET EDIT_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT ALIAS
 
 CD "%EDIT_DIR%"
 
@@ -1820,8 +1820,8 @@ echo.
 echo.
 echo.
 
-CD "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\Other Downloads WIP"
-copy "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\Other Downloads WIP\*.*" "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\ZAB public\Other Downloads"
+CD "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\Other Downloads WIP"
+copy "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\Other Downloads WIP\*.*" "%userprofile%\OneDrive\Documents\Github\ZAB-FE\ZAB public\Other Downloads"
 
 	IF /I %MOVE%==O GOTO DONE_AUTO_TRANSFER
 
@@ -1855,8 +1855,8 @@ echo.
 echo.
 echo.
 
-CD "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\ALIAS FILES"
-copy "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\ALIAS FILES\*.*" "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\ALIAS FILES"
+CD "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\ALIAS FILES"
+copy "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\ALIAS FILES\*.*" "%userprofile%\OneDrive\Documents\Github\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\ALIAS FILES"
 
 	IF /I %MOVE%==A GOTO DONE_AUTO_TRANSFER
 	IF /I %MOVE%==AS GOTO SECTOR
@@ -1891,11 +1891,11 @@ echo.
 echo.
 echo.
 
-CD "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vSTARS"
-copy "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vSTARS\*.*" "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\vSTARS"
+CD "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vSTARS"
+copy "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vSTARS\*.*" "%userprofile%\OneDrive\Documents\Github\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\vSTARS"
 
-CD "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vERAM"
-copy "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vERAM\*.*" "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\vERAM"
+CD "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vERAM"
+copy "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\vERAM\*.*" "%userprofile%\OneDrive\Documents\Github\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\vERAM"
 
 	IF /I %MOVE%==SE GOTO DONE_AUTO_TRANSFER
 
@@ -1929,8 +1929,8 @@ echo.
 echo.
 echo.
 
-CD "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\POF FILE"
-copy "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\POF FILE\*.*" "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\POF FILE"
+CD "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\POF FILE"
+copy "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\POF FILE\*.*" "%userprofile%\OneDrive\Documents\Github\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\POF FILE"
 
 	IF /I %MOVE%==P GOTO DONE_AUTO_TRANSFER
 
@@ -1964,8 +1964,8 @@ echo.
 echo.
 echo.
 
-CD "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\SECTOR FILES"
-copy "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB Facility Files WIP\SECTOR FILES\*.*" "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\SECTOR FILES"
+CD "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\SECTOR FILES"
+copy "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB Facility Files WIP\SECTOR FILES\*.*" "%userprofile%\OneDrive\Documents\Github\ZAB-FE\ZAB public\ZAB Facility Files (Live Update)\SECTOR FILES"
 
 	IF /I %MOVE%==S GOTO DONE_AUTO_TRANSFER
 	IF /I %MOVE%==APS GOTO DONE_AUTO_TRANSFER
@@ -2001,8 +2001,8 @@ echo.
 echo.
 echo.
 
-CD "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB vATIS WIP"
-copy "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\Pre-Release\ZAB vATIS WIP\*.*" "%userprofile%\OneDrive\Documents\ZAB-FE\ZAB-FE\ZAB public\ZAB vATIS"
+CD "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB vATIS WIP"
+copy "%userprofile%\OneDrive\Documents\Github\ZAB-FE\Pre-Release\ZAB vATIS WIP\*.*" "%userprofile%\OneDrive\Documents\Github\ZAB-FE\ZAB public\ZAB vATIS"
 
 :DONE_AUTO_TRANSFER
 
