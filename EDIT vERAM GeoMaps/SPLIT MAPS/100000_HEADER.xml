@@ -6,7 +6,7 @@
         <BcgMenuItem Label="SPLIT" />
         <BcgMenuItem Label="SECTOR" />
         <BcgMenuItem Label="JET" />
-        <BcgMenuItem Label="" />
+        <BcgMenuItem Label="VICTOR" />
         <BcgMenuItem Label="VICTOR" />
         <BcgMenuItem Label="" />
         <BcgMenuItem Label="P50 WEST" />
@@ -32,8 +32,8 @@
         <FilterMenuItem LabelLine1="SPLIT" LabelLine2="FOUR" />
         <FilterMenuItem LabelLine1="SECTOR" LabelLine2="NORM" />
         <FilterMenuItem LabelLine1="*JET" LabelLine2="ROUTES" />
-        <FilterMenuItem LabelLine1="" LabelLine2="" />
         <FilterMenuItem LabelLine1="*VICTOR" LabelLine2="AIRWAYS" />
+        <FilterMenuItem LabelLine1="" LabelLine2="" />
         <FilterMenuItem LabelLine1="" LabelLine2="" />
         <FilterMenuItem LabelLine1="P50" LabelLine2="WEST" />
         <FilterMenuItem LabelLine1="P50" LabelLine2="EAST" />
