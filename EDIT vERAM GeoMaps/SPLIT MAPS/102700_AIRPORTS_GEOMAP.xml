@@ -1,5 +1,5 @@
         <GeoMapObject Description="APT" TdmOnly="false">
-          <SymbolDefaults Bcg="19" Filters="19" Style="Airport" Size="1" />
+          <SymbolDefaults Bcg="10" Filters="10" Style="Airport" Size="1" />
           <Elements>
             <Element xsi:type="Symbol" Filters="" Size="2" Lat="51.883583" Lon="-176.642482" />
             <Element xsi:type="Symbol" Filters="" Size="2" Lat="56.938691" Lon="-154.182556" />

@@ -1,5 +1,5 @@
-        <GeoMapObject Description="HANDOFF" TdmOnly="true">
-          <LineDefaults Bcg="1" Filters="1" Style="Solid" Thickness="1" />
+        <GeoMapObject Description="HANDOFF" TdmOnly="false">
+          <LineDefaults Bcg="2" Filters="2" Style="Solid" Thickness="1" />
           <Elements>
             <Element xsi:type="Line" Filters="" StartLat="30.3921003" StartLon="-101.4649472" EndLat="30.3991506" EndLon="-101.4649472" />
             <Element xsi:type="Line" Filters="" StartLat="30.3921003" StartLon="-101.5630103" EndLat="30.3921003" EndLon="-101.5348092" />

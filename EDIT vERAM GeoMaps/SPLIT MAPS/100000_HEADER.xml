@@ -3,24 +3,24 @@
   <BcgMenus>
     <BcgMenu Name="ZAB">
       <Items>
-        <BcgMenuItem Label="SPLIT" />
-        <BcgMenuItem Label="SECTOR" />
+        <BcgMenuItem Label="CTR SEC" />
+        <BcgMenuItem Label="CTR SEC INFO" />
         <BcgMenuItem Label="JET" />
         <BcgMenuItem Label="VICTOR" />
-        <BcgMenuItem Label="VICTOR" />
-        <BcgMenuItem Label="" />
         <BcgMenuItem Label="P50 WEST" />
+        <BcgMenuItem Label="SAT APPCH" />
+        <BcgMenuItem Label="PHX CLASS B" />
+        <BcgMenuItem Label="TRACON BORDER" />
+        <BcgMenuItem Label="*APT DGM" />
+        <BcgMenuItem Label="*APT" />
+        <BcgMenuItem Label="MIA" />
+        <BcgMenuItem Label="MVA" />
+        <BcgMenuItem Label="RESTRICT AREA" />
+        <BcgMenuItem Label="" />
         <BcgMenuItem Label="P50 EAST" />
         <BcgMenuItem Label="" />
         <BcgMenuItem Label="" />
-        <BcgMenuItem Label="APPROACH" />
-        <BcgMenuItem Label="MVA" />
-        <BcgMenuItem Label="RESTRICT AREA" />
-        <BcgMenuItem Label="APT DIAG" />
-        <BcgMenuItem Label="TAXI LABELS" />
-        <BcgMenuItem Label="TRACON BOUND" />
-        <BcgMenuItem Label="MIA" />
-        <BcgMenuItem Label="PHX CLASS B" />
+        <BcgMenuItem Label="" />
         <BcgMenuItem Label="*APT LABELS" />
 		<BcgMenuItem Label="VOR LABELS" />
       </Items>
@@ -29,25 +29,25 @@
   <FilterMenus>
     <FilterMenu Name="ZAB">
       <Items>
-        <FilterMenuItem LabelLine1="SPLIT" LabelLine2="FOUR" />
-        <FilterMenuItem LabelLine1="SECTOR" LabelLine2="NORM" />
+        <FilterMenuItem LabelLine1="CTR" LabelLine2="SEC" />
+        <FilterMenuItem LabelLine1="CTR SEC" LabelLine2="INFO" />
         <FilterMenuItem LabelLine1="*JET" LabelLine2="ROUTES" />
         <FilterMenuItem LabelLine1="*VICTOR" LabelLine2="AIRWAYS" />
-        <FilterMenuItem LabelLine1="" LabelLine2="" />
-        <FilterMenuItem LabelLine1="" LabelLine2="" />
         <FilterMenuItem LabelLine1="P50" LabelLine2="WEST" />
+        <FilterMenuItem LabelLine1="SAT" LabelLine2="APPCH" />
+        <FilterMenuItem LabelLine1="PHX" LabelLine2="CLASS B" />
+        <FilterMenuItem LabelLine1="TRACON" LabelLine2="BORDER" />
+        <FilterMenuItem LabelLine1="*APT" LabelLine2="DGM" />
+        <FilterMenuItem LabelLine1="*APT" LabelLine2="" />
+        <FilterMenuItem LabelLine1="MIA" LabelLine2="" />
+        <FilterMenuItem LabelLine1="MVA" LabelLine2="" />
+        <FilterMenuItem LabelLine1="RESTRICTED" LabelLine2="AREA" />
+        <FilterMenuItem LabelLine1="" LabelLine2="" />
         <FilterMenuItem LabelLine1="P50" LabelLine2="EAST" />
         <FilterMenuItem LabelLine1="" LabelLine2="" />
         <FilterMenuItem LabelLine1="" LabelLine2="" />
-        <FilterMenuItem LabelLine1="SAT" LabelLine2="APRCH" />
-        <FilterMenuItem LabelLine1="MVA" LabelLine2="" />
-        <FilterMenuItem LabelLine1="RESTRICTED" LabelLine2="AREA" />
-        <FilterMenuItem LabelLine1="*APT" LabelLine2="DIAGRAMS" />
-        <FilterMenuItem LabelLine1="*TAXI" LabelLine2="LABELS" />
-        <FilterMenuItem LabelLine1="TRACON" LabelLine2="BOUND" />
-        <FilterMenuItem LabelLine1="MIA" LabelLine2="" />
-        <FilterMenuItem LabelLine1="PHX" LabelLine2="CLASS B" />
-		<FilterMenuItem LabelLine1="*APT" LabelLine2="LABELS" />
+        <FilterMenuItem LabelLine1="" LabelLine2="" />
+		<FilterMenuItem LabelLine1="*TAXI" LabelLine2="LABELS" />
         <FilterMenuItem LabelLine1="VOR" LabelLine2="LABELS" />
       </Items>
     </FilterMenu>

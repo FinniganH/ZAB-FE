@@ -1,5 +1,5 @@
         <GeoMapObject Description="AIRPORT TEXT" TdmOnly="true">
-          <TextDefaults Bcg="19" Filters="19" Size="1" Underline="false" Opaque="false" XOffset="12" YOffset="0" />
+          <TextDefaults Bcg="10" Filters="10" Size="1" Underline="false" Opaque="false" XOffset="12" YOffset="0" />
           <Elements>
             <Element xsi:type="Text" Filters="" Lat="51.883583" Lon="-176.642482" Lines="PADK ADAK" />
             <Element xsi:type="Text" Filters="" Lat="56.938691" Lon="-154.182556" Lines="PAKH AKHIOK" />

@@ -1,5 +1,5 @@
         <GeoMapObject Description="TRACON BOUND" TdmOnly="false">
-          <LineDefaults Bcg="16" Filters="16" Style="ShortDashed" Thickness="1" />
+          <LineDefaults Bcg="8" Filters="8" Style="ShortDashed" Thickness="1" />
           <Elements>
             <Element xsi:type="Line" Filters="" StartLat="33.0433333" StartLon="-112.6569444" EndLat="33.0830556" EndLon="-112.6866667" />
             <Element xsi:type="Line" Filters="" StartLat="33.0830556" StartLon="-112.6866667" EndLat="33.1377778" EndLon="-112.7225" />

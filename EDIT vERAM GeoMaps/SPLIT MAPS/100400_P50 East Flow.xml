@@ -1,5 +1,5 @@
         <GeoMapObject Description="P50 East Flow" TdmOnly="false">
-          <LineDefaults Bcg="8" Filters="8" Style="Solid" Thickness="1" />
+          <LineDefaults Bcg="15" Filters="15" Style="Solid" Thickness="1" />
           <Elements>
             <Element xsi:type="Line" Filters="" StartLat="0" StartLon="-0" EndLat="0" EndLon="-0" />
             <Element xsi:type="Line" Filters="" StartLat="34.4533333" StartLon="-111.4411667" EndLat="34.0287153" EndLon="-111.6639089" />

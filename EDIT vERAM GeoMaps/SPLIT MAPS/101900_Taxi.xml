@@ -1,5 +1,5 @@
         <GeoMapObject Description="Taxi" TdmOnly="true">
-          <TextDefaults Bcg="15" Filters="15" Size="1" Underline="false" Opaque="false" XOffset="0" YOffset="0" />
+          <TextDefaults Bcg="19" Filters="19" Size="1" Underline="false" Opaque="false" XOffset="0" YOffset="0" />
           <Elements>
             <Element xsi:type="Text" Filters="" Lat="33.5174225" Lon="-112.3006" Lines="1" />
             <Element xsi:type="Text" Filters="" Lat="35.6209656" Lon="-106.1026947" Lines="10" />

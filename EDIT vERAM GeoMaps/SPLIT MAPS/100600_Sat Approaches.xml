@@ -1,5 +1,5 @@
         <GeoMapObject Description="Sat Approaches" TdmOnly="false">
-          <LineDefaults Bcg="11" Filters="11" Style="Solid" Thickness="1" />
+          <LineDefaults Bcg="6" Filters="6" Style="Solid" Thickness="1" />
           <Elements>
             <Element xsi:type="Line" Filters="" StartLat="0" StartLon="-0" EndLat="0" EndLon="-0" />
             <Element xsi:type="Line" Filters="" StartLat="35.0492156" StartLon="-106.7419092" EndLat="35.0404211" EndLon="-106.7417833" />
