@@ -1,0 +1,11 @@
+>[TUS].BURRO (RNAV)       O              O              O              O
+                          BURRO          BURRO          VEYLE          VEYLE
+                          VEYLE          VEYLE          MESCA          MESCA
+                          MESCA          MESCA          NOCHI          NOCHI
+                          BURRO          BURRO          SPLTZ          SPLTZ
+                          SPLTZ          SPLTZ          RYYNN          RYYNN
+                          RYYNN          RYYNN          ROSKR          ROSKR
+                          ROSKR          ROSKR          GBN            GBN
+                          RYYNN          RYYNN          BBALL          BBALL
+                          RYYNN          RYYNN          HOTTT          HOTTT
+;

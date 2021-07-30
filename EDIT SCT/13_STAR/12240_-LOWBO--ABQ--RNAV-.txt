@@ -1,0 +1,19 @@
+>LOWBO.[ABQ](RNAV)         O              O              O              O
+                          ROSEI          ROSEI          SSKYE          SSKYE
+                          SSKYE          SSKYE          FORUN          FORUN
+                          FORUN          FORUN          LOWBO          LOWBO
+                          BRMLY          BRMLY          JMUZE          JMUZE
+                          JMUZE          JMUZE          HIKKR          HIKKR
+                          HIKKR          HIKKR          LOWBO          LOWBO
+                          GUP            GUP            BUKEE          BUKEE
+                          BUKEE          BUKEE          WSTRN          WSTRN
+                          WSTRN          WSTRN          LOWBO          LOWBO
+                          LOWBO          LOWBO          JOKLO          JOKLO
+                          JOKLO          JOKLO          ITUNE          ITUNE
+                          ITUNE          ITUNE          SDUNX          SDUNX
+                          SDUNX          SDUNX          PASEO          PASEO
+                          PASEO          PASEO          NODME          NODME
+                          ITUNE          ITUNE          MUSCC          MUSCC
+                          MUSCC          MUSCC          DWNLD          DWNLD
+                          DWNLD          DWNLD          CMSTR          CMSTR
+;

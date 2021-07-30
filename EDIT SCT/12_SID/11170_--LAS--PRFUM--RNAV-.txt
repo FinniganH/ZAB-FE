@@ -1,0 +1,5 @@
+>[LAS].PRFUM (RNAV)       O              O              O              O
+                          WINDS          WINDS          KADDY          KADDY
+                          KADDY          KADDY          PRFUM          PRFUM
+                          PRFUM          PRFUM          DRK            DRK
+;

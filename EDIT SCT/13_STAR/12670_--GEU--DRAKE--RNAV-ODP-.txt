@@ -1,0 +1,7 @@
+>[GEU].DRAKE (RNAV/ODP)   O              O              O              O
+                          N033.31.37.000 W112.17.43.000 KUWSO          KUWSO
+                          KUWSO          KUWSO          WATEG          WATEG
+                          WATEG          WATEG          PODRY          PODRY
+                          PODRY          PODRY          KARLO          KARLO
+                          KARLO          KARLO          DRK            DRK
+;

@@ -1,0 +1,13 @@
+>[SDL].SDL                O              O              O              O
+                          FORPE          FORPE          SJN            SJN
+                          SJN            SJN            ACOMA          ACOMA
+                          ACOMA          ACOMA          ABQ            ABQ
+                          WINRR          WINRR          TFD            TFD
+                          TFD            TFD            PUSCH          PUSCH
+                          PUSCH          PUSCH          OLIIN          OLIIN
+                          TFD            TFD            TUS            TUS
+                          TFD            TFD            BASER          BASER
+                          BASER          BASER          DINGO          DINGO
+                          MOBIE          MOBIE          GBN            GBN
+                          BXK            BXK            BLH            BLH
+;

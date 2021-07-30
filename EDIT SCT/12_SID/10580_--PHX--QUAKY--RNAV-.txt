@@ -1,0 +1,20 @@
+>[PHX].QUAKY (RNAV)       O              O              O              O
+                          SPRKY          SPRKY          GOALY          GOALY
+                          GOALY          GOALY          QUAKY          QUAKY
+                          WIVLA          WIVLA         HIRVU            HIRVU      
+                          HIRVU          HIRVU       ZIDOG            ZIDOG
+                          JINOL            JINOL         OSGUE         OSGUE      
+                          OSGUE         OSGUE       ZIDOG            ZIDOG
+                          ZOLUP         ZOLUP       YOVKU           YOVKU   
+                          YOVKU         YOVKU       ZIDOG            ZIDOG
+                          ZIDOG            ZIDOG      OXYGN          OXYGN
+                          OXYGN          OXYGN      ZILUB            ZILUB
+                          ZILUB            ZILUB         QUAKY          QUAKY
+                          QUAKY          QUAKY          SNOBL          SNOBL
+                          SNOBL          SNOBL          CARTL          CARTL
+                          CARTL          CARTL          LOFTS          LOFTS
+                          LOFTS          LOFTS          RIMMM          RIMMM
+                          RIMMM          RIMMM          GCN            GCN
+                          CARTL          CARTL          JARPA          JARPA
+                          CARTL          CARTL          YOOPR          YOOPR
+;

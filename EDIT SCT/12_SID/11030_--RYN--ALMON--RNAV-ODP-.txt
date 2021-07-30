@@ -1,0 +1,6 @@
+>[RYN].ALMON (RNAV/ODP)   O              O              O              O
+                          N032.08.42.871 W111.09.45.259 ZILIG          ZILIG
+                          ZILIG          ZILIG          ALMON          ALMON
+                          N032.08.24.540 W111.10.45.491 JUPIN          JUPIN
+                          JUPIN          JUPIN          ALMON          ALMON
+;

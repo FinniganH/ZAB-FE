@@ -1,0 +1,22 @@
+>BRUSR.[PHX] (RNAV)       O              O              O              O
+                          JURAZ          JURAZ          KUCOO          KUCOO
+                          KUCOO          KUCOO          BRIEZ          BRIEZ
+                          BRIEZ          BRIEZ          ZILUB          ZILUB
+                          ZILUB          ZILUB          ANNTI          ANNTI
+                          ANNTI          ANNTI          BRUSR          BRUSR
+                          BALTE          BALTE          TLMAN          TLMAN
+                          FOWLE          FOWLE          TLMAN          TLMAN
+                          JAMIL          JAMIL          TLMAN          TLMAN
+                          TLMAN          TLMAN          PGSKN          PGSKN
+                          PGSKN          PGSKN          FBALL          FBALL
+                          FBALL          FBALL          ENSEA          ENSEA
+                          ENSEA          ENSEA          BDWIL          BDWIL
+                          BDWIL          BDWIL          BRUSR          BRUSR
+                          BRUSR          BRUSR          MAIER          MAIER
+                          MAIER          MAIER          DRK            DRK
+                          DRK            DRK            WINER          WINER
+                          WINER          WINER          WOTRO          WOTRO
+                          MAIER          MAIER          DUTEY          DUTEY
+                          DUTEY          DUTEY          PANTD          PANTD
+                          PANTD          PANTD          TENTS          TENTS
+;

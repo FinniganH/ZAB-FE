@@ -1,0 +1,16 @@
+>COYOT.[PHX]              O              O              O              O
+                          PXR            PXR            MAHEM          MAHEM
+                          MAHEM          MAHEM          BRUSR          BRUSR
+                          BRUSR          BRUSR          COYOT          COYOT
+                          COYOT          COYOT          WEBAD          WEBAD
+                          WEBAD          WEBAD          MAIER          MAIER
+                          MAIER          MAIER          HATRK          HATRK
+                          HATRK          HATRK          DRK            DRK
+                          DRK            DRK            WOTRO          WOTRO
+                          WOTRO          WOTRO          SINHO          SINHO
+                          SINHO          SINHO          PRFUM          PRFUM
+                          PRFUM          PRFUM          USCUP          USCUP
+                          USCUP          USCUP          GFS            GFS
+                          GFS            GFS            HEC            HEC
+                          PRFUM          PRFUM          BLD            BLD
+;

@@ -1,0 +1,4 @@
+>[GYR].POTER (RNAV/ODP)   O              O              O              O
+                          N033.25.25.000 W112.22.28.000 RUPOY          RUPOY
+                          RUPOY          RUPOY          POTER          POTER
+;

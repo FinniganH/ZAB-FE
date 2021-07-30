@@ -1,0 +1,14 @@
+>COLTR.[ABQ](RNAV)         O              O              O              O
+                          RECKN          RECKN          ZATOX          ZATOX
+                          ZATOX          ZATOX          SNEWP          SNEWP
+                          SNEWP          SNEWP          COLTR          COLTR
+                          TCC            TCC            ACH            ACH
+                          ACH            ACH            TALLR          TALLR
+                          TALLR          TALLR          COLTR          COLTR
+                          COLTR          COLTR          YYLEE          YYLEE
+                          YYLEE          YYLEE          TACOH          TACOH
+                          YYLEE          YYLEE          CYOTE          CYOTE
+                          CYOTE          CYOTE          TNTOE          TNTOE
+                          TNTOE          TNTOE          PLNET          PLNET
+                          TNTOE          TNTOE          ACMIE          ACMIE
+;

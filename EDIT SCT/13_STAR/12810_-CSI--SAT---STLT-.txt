@@ -1,0 +1,3 @@
+>CSI.[SAT & STLT]         O              O              O              O
+                          FST            FST            CSI            CSI
+;

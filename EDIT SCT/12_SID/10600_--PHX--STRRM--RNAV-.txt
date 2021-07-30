@@ -1,0 +1,9 @@
+>[PHX].STRRM (RNAV)       O              O              O              O
+                          SPRKY          SPRKY          ANZEL          ANZEL
+                          ANZEL          ANZEL         DDUKE          DDUKE
+                          JUTAK          JUTAK          WETAL           WETAL
+                          WETAL          WETAL          BNYRD          BNYRD
+                          DDUKE          DDUKE          BNYRD          BNYRD
+                          BNYRD          BNYRD         STRRM           STRRM
+                          STRRM          STRRM            TUS            TUS
+;

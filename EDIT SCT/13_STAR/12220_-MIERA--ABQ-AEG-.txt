@@ -1,0 +1,8 @@
+>MIERA.[ABQ/AEG]          O              O              O              O
+                          TCC            TCC            ACH            ACH
+                          ACH            ACH            MIERA          MIERA
+                          TXO            TXO            MIERA          MIERA
+                          CME            CME            CNX            CNX
+                          CNX            CNX            MIERA          MIERA
+                          MIERA          MIERA          ABQ            ABQ
+;

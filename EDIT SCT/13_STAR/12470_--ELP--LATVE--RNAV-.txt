@@ -1,0 +1,12 @@
+>[ELP].LATVE (RNAV)       O              O              O              O
+                          AKADE          AKADE          HIKEM          HIKEM
+                          HIKEM          HIKEM          CATEG          CATEG
+                          MATLE          MATLE          CATEG          CATEG
+                          CATEG          CATEG          LATVE          LATVE
+                          KERGE          KERGE          DOTGE          DOTGE
+                          DOTGE          DOTGE          LATVE          LATVE
+                          LATVE          LATVE          AKASE          AKASE
+                          AKASE          AKASE          BLRNG          BLRNG
+                          BLRNG          BLRNG          RIICK          RIICK
+                          RIICK          RIICK          CME            CME
+;

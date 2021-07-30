@@ -1,0 +1,4 @@
+>[FMN].CHACO.GUP          O              O              O              O
+                          RSK            RSK            CHACO          CHACO
+                          CHACO          CHACO          GUP            GUP
+;

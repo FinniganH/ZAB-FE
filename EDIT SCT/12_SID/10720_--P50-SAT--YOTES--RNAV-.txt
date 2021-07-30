@@ -1,0 +1,6 @@
+>[P50 SAT].YOTES (RNAV)       O              O              O              O
+                          MRBIL          MRBIL          YOTES          YOTES
+                          YOTES          YOTES          GCN            GCN
+                          YOTES          YOTES          JARPA          JARPA
+                          YOTES          YOTES          YOOPR          YOOPR
+;

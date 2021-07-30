@@ -1,0 +1,14 @@
+>[PHX].KEENS (RNAV)       O              O              O              O
+                          FUTEP          FUTEP          AZCRD          AZCRD
+                          AZCRD          AZCRD          USEYE          USEYE
+                          USEYE          USEYE          MASVE          MASVE
+                          MASVE          MASVE          OAKLI          OAKLI
+                          OAKLI          OAKLI             KEENS          KEENS
+                         WULKO         WULKO          KEENS          KEENS
+                          KEENS          KEENS          IZZZO          IZZZO
+                          IZZZO          IZZZO          SALOM          SALOM
+                          SALOM          SALOM          BLH            BLH
+                          IZZZO          IZZZO          CULTS          CULTS
+                          CULTS          CULTS        HRRBR         HRRBR
+                          IZZZO          IZZZO          MESSI           MESSI
+;

@@ -1,0 +1,5 @@
+>CURLY.[ABQ/AEG]          O              O              O              O
+                          GUP            GUP            CURLY          CURLY
+                          TANER          TANER          CURLY          CURLY
+                          CURLY          CURLY          ABQ            ABQ
+;

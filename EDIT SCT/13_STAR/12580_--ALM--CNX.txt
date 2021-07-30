@@ -1,0 +1,4 @@
+>[ALM].CNX                O              O              O              O
+                          BWS            BWS            CORAS          CORAS
+                          CORAS          CORAS          CNX            CNX
+;

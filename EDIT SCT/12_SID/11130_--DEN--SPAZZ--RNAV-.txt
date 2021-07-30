@@ -1,0 +1,18 @@
+>[DEN].SPAZZ (RNAV)       O              O              O              O
+                          PUB            PUB            JOPLN          JOPLN
+                          PUB            PUB            TBE            TBE
+;
+;>[DFW].CEOLA (RNAV)       O              O              O              O
+;                          KIRST          KIRST          LBB            LBB
+;                          LBB            LBB            CNX            CNX
+;                          LBB            LBB            TXO            TXO
+;
+;>[DFW].FERRA (RNAV)       O              O              O              O
+;                          SCABI          SCABI          CDS            CDS
+;                          CDS            CDS            PNH            PNH
+;
+;>[DFW].SLOTT (RNAV)       O              O              O              O
+;                          MANKI          MANKI          OWING          OWING
+;                          OWING          OWING          GTH            GTH
+;                          GTH            GTH            TCC            TCC
+;

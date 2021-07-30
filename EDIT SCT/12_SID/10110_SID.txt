@@ -1,0 +1,18 @@
+[SID]
+;
+; ------------------------------
+;
+; Header Key
+;
+; O = Center/TRACON Boundary (From ZAB perspective)
+; * = Primary Video Map
+; # = Sectors (Think dividing lines)
+; ^ = MVA (Think mountain peak)
+; @ = Airspace (Think mini-Class B/C airspace)
+; % = VFR (Think road and buildings)
+; : = Misc Info (e.g., Printed Fix Names or Approach Overlays)
+; ± = Airport Diagrams (Think mini airport diagram)
+; > = SID/STAR (Think routes converging to/fanning from airport)
+;
+; ------------------------------
+;

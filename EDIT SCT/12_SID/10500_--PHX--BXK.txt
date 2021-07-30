@@ -1,0 +1,9 @@
+>[PHX].BXK                O              O              O              O
+                          BXK            BXK            BLH            BLH
+                          BLH            BLH            DECAS          DECAS
+                          BXK            BXK            CURIV          CURIV
+                          CURIV          CURIV          DECAS          DECAS
+                          DECAS          DECAS          PSP            PSP
+                          DECAS          DECAS          PMD            PMD
+                          BXK            BXK            PKE            PKE
+;

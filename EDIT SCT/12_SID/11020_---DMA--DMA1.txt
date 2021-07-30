@@ -1,0 +1,6 @@
+>>[DMA].DMA1              O              O              O              O
+                          TUS               TUS          ROSKR          ROSKR
+                          TUS               TUS          BBALL           BBALL
+                          TUS               TUS          HOTTT           HOTTT
+                          TUS               TUS          REDDY          REDDY
+;

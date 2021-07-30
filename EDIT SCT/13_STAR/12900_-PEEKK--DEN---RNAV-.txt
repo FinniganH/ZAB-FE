@@ -1,0 +1,4 @@
+>PEEKK.[DEN] (RNAV)       O              O              O              O
+                          BRAZO          BRAZO          MONRK          MONRK
+                          OURAY          OURAY          KNOSA          KNOSA
+;

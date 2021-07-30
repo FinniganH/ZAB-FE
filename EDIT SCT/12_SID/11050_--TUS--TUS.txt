@@ -1,0 +1,10 @@
+>[TUS].TUS                O              O              O              O
+                          TUS            TUS            REDDY          REDDY
+                          REDDY          REDDY          SSO            SSO
+                          TUS            TUS            MESCA          MESCA
+                          MESCA          MESCA          SSO            SSO
+                          TUS            TUS            ROSKR          ROSKR
+                          ROSKR          ROSKR          GBN            GBN
+                          TUS            TUS            BBALL          BBALL
+                          BBALL          BBALL          PXR            PXR
+;

@@ -1,0 +1,6 @@
+>[SEZ].OATES (RNAV/ODP)   O              O              O              O
+                          N034.50.55.000 W111.47.19.000 FETIN          FETIN
+                          FETIN          FETIN          HEMUT          HEMUT
+                          HEMUT          HEMUT          ZABUS          ZABUS
+                          ZABUS          ZABUS          OATES          OATES
+;

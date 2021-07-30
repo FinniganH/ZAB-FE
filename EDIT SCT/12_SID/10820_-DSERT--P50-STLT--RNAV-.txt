@@ -1,0 +1,15 @@
+>DSERT.[P50 STLT](RNAV)   O              O              O              O
+                          TYLIK          TYLIK          AEJAY          AEJAY
+                          AEJAY          AEJAY          BAYTA          BAYTA
+                          BAYTA          BAYTA          BUSTD          BUSTD
+                          CACTY          CACTY          YOLOW          YOLOW
+                          YOLOW          YOLOW          BUSTD          BUSTD
+                          BUSTD          BUSTD          SHOCK          SHOCK
+                          SHOCK          SHOCK          DSERT          DSERT
+                          DSERT          DSERT          INW            INW
+                          DSERT          DSERT          FLG            FLG
+                          DSERT          DSERT          KORII          KORII
+                          KORII          KORII          LJAYY          LJAYY
+                          DSERT          DSERT          SMALL          SMALL
+                          SMALL          SMALL          KIDDR          KIDDR
+;

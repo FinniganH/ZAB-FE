@@ -1,0 +1,11 @@
+>[LUF].LUKE                O              O              O              O
+                          LUF            LUF            MILLR          MILLR
+                          MILLR          MILLR          DRK            DRK
+;
+;>[LUF].TANKZ              O              O              O              O
+;                         LUF            LUF            TANKZ          TANKZ
+;
+;>[LUF].TIRON              O              O              O              O
+;                          LUF            LUF            TIRON          TIRON
+;                          TIRON          TIRON          BLH            BLH
+;

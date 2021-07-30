@@ -1,0 +1,8 @@
+>[ELP].TDOWN (RNAV)       O              O              O              O
+                          HIKEM          HIKEM          TDOWN          TDOWN
+                          DAVNE          DAVNE          BUSEY          BUSEY
+                          JIMBA          JIMBA          BUSEY          BUSEY
+                          BUSEY          BUSEY          TDOWN          TDOWN
+                          TDOWN          TDOWN          CADEK          CADEK  
+                          CADEK          CADEK          SFL            SFL
+;

@@ -1,0 +1,11 @@
+>[PHX].FYRBD (RNAV)       O              O              O              O
+                          FUTEP          FUTEP          AZCRD          AZCRD
+                          AZCRD          AZCRD          USEYE          USEYE
+                          USEYE          USEYE          MASVE          MASVE
+                          MASVE          MASVE          OAKLI          OAKLI
+                          OAKLI          OAKLI             FYRBD          FYRBD
+                          JUTAK          JUTAK          WETAL           WETAL
+                          WETAL          WETAL          FYRBD          FYRBD
+                          FYRBD          FYRBD            JUDTH          JUDTH
+                          JUDTH          JUDTH          MOHAK          MOHAK
+;

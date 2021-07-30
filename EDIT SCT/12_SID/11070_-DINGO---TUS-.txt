@@ -1,0 +1,7 @@
+>DINGO .[TUS]             O              O              O              O
+                          GBN            GBN            BASER          BASER
+                          PXR            PXR            TFD            TFD
+                          TFD            TFD            BASER          BASER
+                          BASER          BASER          DINGO          DINGO
+                          DINGO          DINGO          MAVVA          MAVVA
+;

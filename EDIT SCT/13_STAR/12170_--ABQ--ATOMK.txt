@@ -1,0 +1,6 @@
+>[ABQ].ATOMK                O              O              O              O
+                          FOXRR          FOXRR          TYWEB          TYWEB
+                          TYWEB          TYWEB          TKILA          TKILA
+                          TKILA          TKILA          FIREY          FIREY
+                          FIREY          FIREY          ATOMK          ATOMK
+;

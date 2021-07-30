@@ -1,0 +1,6 @@
+>LAVAN.[ABQ/AEG]          O              O              O              O
+                          SJN            SJN            IRULY          IRULY
+                          ZUN            ZUN            IRULY          IRULY
+                          IRULY          IRULY          LAVAN          LAVAN
+                          LAVAN          LAVAN          ABQ            ABQ
+;

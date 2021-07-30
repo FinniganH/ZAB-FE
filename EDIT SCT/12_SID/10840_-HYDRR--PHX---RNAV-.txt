@@ -1,0 +1,24 @@
+>HYDRR.[PHX] (RNAV)       O              O              O              O
+                          BALTE          BALTE          CAGOR          CAGOR
+                          FOWLE          FOWLE          CAGOR          CAGOR
+                          JAMIL          JAMIL          CAGOR          CAGOR
+                          CAGOR          CAGOR          FALGO          FALGO
+                          FALGO          FALGO          TESLE          TESLE
+                          TESLE          TESLE          TEICH          TEICH
+                          TEICH          TEICH          PUNNT          PUNNT
+                          PUNNT          PUNNT          GEELA          GEELA
+                          LEMOE          LEMOE          CHAVO          CHAVO
+                          CHAVO          CHAVO          AGGLA          AGGLA
+                          AGGLA          AGGLA          GEELA          GEELA
+                          GEELA          GEELA          HYDRR          HYDRR
+                          HYDRR          HYDRR          RKDAM          RKDAM
+                          RKDAM          RKDAM          JUDTH          JUDTH
+                          JUDTH          JUDTH          HOGGZ          HOGGZ
+                          HYDRR          HYDRR          SWOON          SWOON
+                          SWOON          SWOON          SNRRA          SNRRA
+                          SNRRA          SNRRA          SPINK          SPINK
+                          SPINK          SPINK          SCOLE          SCOLE
+                          SCOLE          SCOLE          BLH            BLH
+                          SWOON          SWOON          MHAVI          MHAVI
+                          MHAVI          MHAVI          SALOM          SALOM
+;

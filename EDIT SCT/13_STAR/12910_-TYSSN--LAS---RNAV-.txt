@@ -1,0 +1,7 @@
+>TYSSN.[LAS] (RNAV)       O              O              O              O
+                          KADDY          KADDY          CEJAY          CEJAY
+                          CEJAY          CEJAY          PGS            PGS
+                          KADDY          KADDY          ZATES          ZATES
+                          ZATES          ZATES          IGM            IGM
+                          IGM            IGM            DRK            DRK
+;

@@ -1,0 +1,19 @@
+#define AMASS 6697728
+#define BLDG 64
+#define Buildings 136
+#define EMSAW 5592405
+#define MIA 5592405
+#define Gate 1710618
+#define HoldBar 170
+#define Markings 16777215
+#define Ramp 1710618
+#define RED 255
+#define Runway 16776960
+#define RVM 5592405
+#define RVMB 255160200
+#define TAXISIGN 9224164
+#define TAXIWAY 10747904
+#define Threshold 9224164
+#define WHITE 16777215
+
+

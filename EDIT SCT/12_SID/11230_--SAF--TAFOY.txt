@@ -1,0 +1,5 @@
+>[SAF].TAFOY              O              O              O              O
+                          SAF            SAF            TAFOY          TAFOY
+                          TAFOY          TAFOY          FTI            FTI
+                          TAFOY          TAFOY          ACH            ACH
+;

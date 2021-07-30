@@ -1,0 +1,12 @@
+>[ELP].SAMMR (RNAV)       O              O              O              O
+                          CME            CME            RIICK          RIICK
+                          RIICK          RIICK          ZIPPI          ZIPPI
+                          ZIPPI          ZIPPI          BGBND          BGBND
+                          BGBND          BGBND          BLYSS          BLYSS
+                          BLYSS          BLYSS          SAMMR          SAMMR  
+                          LIFFT          LIFFT          CABOL          CABOL
+                          CABOL          CABOL          ZATSA          ZATSA
+                          ZATSA          ZATSA          SKIIR          SKIIR
+                          SKIIR          SKIIR          SAMMR          SAMMR
+                          SAMMR          SAMMR          SARRT          SARRT
+;

@@ -1,0 +1,4 @@
+>[P50 SAT].BNYRD (RNAV)       O              O              O              O
+                          BNYRD         BNYRD      TFD            TFD
+                          TFD            TFD            TUS            TUS
+;

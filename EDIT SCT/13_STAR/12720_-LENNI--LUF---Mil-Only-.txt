@@ -1,0 +1,7 @@
+>LENNI.[LUF] (Mil Only)   O              O              O              O
+                          DRK            DRK            HISTK          HISTK
+                          HISTK          HISTK          LENNI          LENNI
+                          PXR            PXR            LENNI          LENNI
+                          BXK            BXK            LENNI          LENNI
+                          LENNI          LENNI          MONTI          MONTI
+;

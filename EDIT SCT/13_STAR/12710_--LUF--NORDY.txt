@@ -1,0 +1,3 @@
+>[LUF].NORDY              O              O              O              O
+                          LUF            LUF            NORDY          NORDY
+;

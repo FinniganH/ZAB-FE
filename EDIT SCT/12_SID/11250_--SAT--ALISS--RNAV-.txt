@@ -1,0 +1,3 @@
+>[SAT].ALISS (RNAV)       o              o              o              o
+                          ALISS          ALISS          FST            FST
+;

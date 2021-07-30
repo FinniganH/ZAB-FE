@@ -1,0 +1,13 @@
+>KRKEE.[ABQ](RNAV)         O              O              O              O
+                          KALSE          KALSE          KRKEE          KRKEE
+                          CABNO          CABNO          KRKEE          KRKEE
+                          KRKEE          KRKEE          ELRRA          ELRRA
+                          ELRRA          ELRRA          XMRKS          XMRKS
+                          XMRKS          XMRKS          SHWNA          SHWNA
+                          SHWNA          SHWNA          BIBQU          BIBQU
+                          XMRKS          XMRKS          STIKI          STIKI
+                          STIKI          STIKI          BRNDO          BRNDO
+                          XMRKS          XMRKS          AMRRA          AMRRA
+                          AMRRA          AMRRA          UNCIR          UNCIR
+                          AMRRA          AMRRA          FOXRR          FOXRR
+;

@@ -1,0 +1,23 @@
+>EAGUL.[PHX] (RNAV)       O              O              O              O
+                          GIPSE          GIPSE          DERVL          DERVL
+                          ZAMEX          ZAMEX          DERVL          DERVL
+                          JAGAL          JAGAL          DERVL          DERVL
+                          DERVL          DERVL          BASSL          BASSL
+                          BASSL          BASSL          ESDEE          ESDEE
+                          ESDEE          ESDEE          VNNOM          VNNOM
+                          VNNOM          VNNOM          HOMRR          HOMRR
+                          OBASE          OBASE          HINEY          HINEY
+                          HINEY          HINEY          QUENY          QUENY
+                          QUENY          QUENY          GEENO          GEENO
+                          GEENO          GEENO          BOHTX          BOHTX
+                          BOHTX          BOHTX          HOMRR          HOMRR
+                          HOMRR          HOMRR          EAGUL          EAGUL
+                          EAGUL          EAGUL          INW            INW
+                          EAGUL          EAGUL          PAYSO          PAYSO
+                          PAYSO          PAYSO          TINIZ          TINIZ
+                          TINIZ          TINIZ          SLIDR          SLIDR
+                          SLIDR          SLIDR          KIRKM          KIRKM
+                          KIRKM          KIRKM          GUP            GUP
+                          SLIDR          SLIDR          DOJOE          DOJOE
+                          DOJOE          DOJOE          ZUN            ZUN
+;

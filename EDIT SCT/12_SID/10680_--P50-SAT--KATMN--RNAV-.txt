@@ -1,0 +1,5 @@
+>[P50 SAT].KATMN (RNAV)       O              O              O              O
+                          ECLPS          ECLPS           KATMN          KATMN
+                          KATMN          KATMN          BOXXR          BOXXR
+                          BOXXR          BOXXR          PHASE          PHASE
+;

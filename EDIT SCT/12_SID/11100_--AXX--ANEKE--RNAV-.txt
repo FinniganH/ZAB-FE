@@ -1,0 +1,5 @@
+>[AXX].ANEKE (RNAV)       O              O              O              O
+                          MIDAE          MIDAE          ANEKE          ANEKE
+                          ANEKE          ANEKE          BOPLE          BOPLE
+                          BOPLE          BOPLE          CELAV          CELAV
+;

@@ -1,0 +1,5 @@
+>[ELP].HSKNS (RNAV)       O              O              O              O
+                          DOHHN          DOHHN          HSKNS          HSKNS
+                          HSKNS          HSKNS          FINAG          FINAG
+                          FINAG          FINAG          BECON          BECON
+;

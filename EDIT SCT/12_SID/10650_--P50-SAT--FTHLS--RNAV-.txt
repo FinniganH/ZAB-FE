@@ -1,0 +1,7 @@
+>[P50 SAT].FTHLS (RNAV)       O              O              O               O
+                          BROAK          BROAK          FTHLS          FTHLS
+                          FTHLS          FTHLS          JNIPR          JNIPR
+                          JNIPR          JNIPR          JSSUA          JSSUA
+                          JSSUA          JSSUA          ABQ            ABQ
+                          JSSUA          JSSUA          MAXXO          MAXXO
+;

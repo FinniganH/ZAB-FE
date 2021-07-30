@@ -1,0 +1,9 @@
+>[ELP].WAZKO (RNAV)       O              O              O              O
+                          SLNNK          SLNNK          BOATY          BOATY
+                          BOATY          BOATY          SEKBE          SEKBE
+                          SEKBE          SEKBE          WAZKO          WAZKO
+                          WAZKO          WAZKO          JEBSU          JEBSU
+                          JEBSU          JEBSU          WIKKR          WIKKR
+                          WAZKO          WAZKO          KOACH          KOACH
+;
+;

@@ -1,0 +1,6 @@
+>[PHX].TFD                O              O              O              O
+                          JOLAV          JOLAV          TFD            TFD
+                          TFD            TFD            PUSCH          PUSCH
+                          PUSCH          PUSCH          OLIIN          OLIIN
+                          TFD            TFD            TUS            TUS
+;

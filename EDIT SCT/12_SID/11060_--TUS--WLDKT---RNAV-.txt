@@ -1,0 +1,9 @@
+>[TUS].WLDKT  (RNAV)      O              O              O              O
+                          WLDKT          WLDKT          OLLSN          OLLSN
+                          OLLSN          OLLSN          REDDY          REDDY
+                          REDDY          REDDY          SSO            SSO
+                          WLDKT          WLDKT          ROSKR          ROSKR
+                          ROSKR          ROSKR          GBN            GBN
+                          WLDKT          WLDKT          BBALL          BBALL
+                          WLDKT          WLDKT          HOTTT          HOTTT
+;

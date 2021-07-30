@@ -1,0 +1,17 @@
+>[PHX].FORPE (RNAV)          O              O              O              O
+                          SPRKY          SPRKY       FORPE          FORPE
+                          WIVLA          WIVLA         HIRVU            HIRVU      
+                          HIRVU          HIRVU       ZIDOG            ZIDOG
+                          JINOL            JINOL         OSGUE         OSGUE      
+                          OSGUE         OSGUE       ZIDOG            ZIDOG
+                          ZOLUP         ZOLUP       YOVKU           YOVKU   
+                          YOVKU         YOVKU       ZIDOG            ZIDOG
+                          ZIDOG            ZIDOG      OXYGN          OXYGN
+                          OXYGN          OXYGN      ZILUB            ZILUB
+                          ZILUB            ZILUB         FORPE          FORPE
+                          FORPE          FORPE       LALUZ           LALUZ
+                          LALUZ           LALUZ        SJN                SJN
+                          SJN                SJN             JSSUA           JSSUA
+                          JSSUA          JSSUA          MAXXO          MAXXO
+                          SJN                SJN             ABQ               ABQ
+;

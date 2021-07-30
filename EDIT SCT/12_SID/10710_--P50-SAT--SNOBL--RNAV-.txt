@@ -1,0 +1,9 @@
+>[P50 SAT].SNOBL (RNAV)       O              O              O              O
+                          QUAKY          QUAKY          SNOBL          SNOBL
+                          SNOBL          SNOBL          CARTL          CARTL
+                          CARTL          CARTL          LOFTS          LOFTS
+                          LOFTS          LOFTS          RIMMM          RIMMM
+                          RIMMM          RIMMM          GCN            GCN
+                          CARTL          CARTL          JARPA          JARPA
+                          CARTL          CARTL          YOOPR          YOOPR
+;

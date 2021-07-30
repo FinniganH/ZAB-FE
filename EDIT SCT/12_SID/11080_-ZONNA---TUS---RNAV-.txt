@@ -1,0 +1,9 @@
+>ZONNA .[TUS] (RNAV)      O              O              O              O
+                          SSO            SSO            ZONNA          ZONNA
+                          EWM            EWM            PENSL          PENSL
+                          ELP            ELP            PENSL          PENSL
+                          PENSL          PENSL          ZONNA          ZONNA
+                          ZONNA          ZONNA          SSAND          SSAND
+                          SSAND          SSAND          JEGEK          JEGEK
+                          JEGEK          JEGEK          OTUKE          OTUKE
+;

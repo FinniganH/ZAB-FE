@@ -1,0 +1,7 @@
+>[ELP].BEAHR (RNAV)       O              O              O              O
+                          TXSAS          TXSAS          TELRE          TELRE
+                          TELRE          TELRE          DLINE          DLINE
+                          DLINE          DLINE          UUTEP          UUTEP
+                          UUTEP          UUTEP          MYNRS          MYNRS
+                          MYNRS          MYNRS          BEAHR          BEAHR
+;

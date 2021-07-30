@@ -1,0 +1,7 @@
+>[P50 SAT].LALUZ (RNAV)       O              O              O              O
+                          FORPE          FORPE          LALUZ          LALUZ
+                          LALUZ          LALUZ          SJN            SJN
+                          SJN            SJN            ABQ            ABQ
+                          SJN            SJN            JSSUA          JSSUA
+                          JSSUA          JSSUA          MAXXO          MAXXO
+;

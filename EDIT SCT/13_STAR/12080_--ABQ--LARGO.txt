@@ -1,0 +1,6 @@
+>[ABQ].LARGO              O              O              O              O
+                          ABQ            ABQ            ZUN            ZUN
+                          ABQ            ABQ            GUP            GUP
+                          ABQ            ABQ            HANOS          HANOS
+                          HANOS          HANOS          RSK            RSK
+;

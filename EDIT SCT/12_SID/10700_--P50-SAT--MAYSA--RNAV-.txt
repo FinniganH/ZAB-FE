@@ -1,0 +1,4 @@
+>[P50 SAT].MAYSA (RNAV)       O              O              O              O
+                          ZEPER          ZEPER          MAYSA          MAYSA
+                          MAYSA          MAYSA          RRSTA          RRSTA
+;

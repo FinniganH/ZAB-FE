@@ -1,0 +1,15 @@
+>[PHX].ZEPER (RNAV)       O              O              O              O
+                          SPRKY          SPRKY          GOALY          GOALY
+                          GOALY          GOALY          JOLAR          JOLAR
+                          JOLAR          JOLAR          ZEPER          ZEPER
+                          WIVLA          WIVLA         HIRVU            HIRVU      
+                          HIRVU          HIRVU       ZIDOG            ZIDOG
+                          JINOL            JINOL         OSGUE         OSGUE      
+                          OSGUE         OSGUE       ZIDOG            ZIDOG
+                          ZOLUP         ZOLUP       YOVKU           YOVKU   
+                          YOVKU         YOVKU       ZIDOG            ZIDOG 
+                          ZIDOG            ZIDOG        FANON         FANON
+                          FANON         FANON         ZEPER          ZEPER
+                          ZEPER          ZEPER          MAYSA          MAYSA
+                          MAYSA          MAYSA          RRSTA          RRSTA
+;

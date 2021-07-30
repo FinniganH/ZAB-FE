@@ -1,0 +1,9 @@
+>[ELP].NEVUE (RNAV)       O              O              O              O
+                          DAVNE          DAVNE          CABSI          CABSI
+                          CABSI          CABSI          MREDD          MREDD
+                          MREDD          MREDD          NEVUE          NEVUE
+                          AKADE          AKADE          FOBET          FOBET
+                          FOBET          FOBET          NEVUE          NEVUE
+                          NEVUE          NEVUE          BIVLE          BIVLE
+                          BIVLE          BIVLE          FST            FST
+;

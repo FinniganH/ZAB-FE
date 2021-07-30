@@ -1,0 +1,9 @@
+>[PHX].ECLPS (RNAV)       O              O              O              O
+                          SPRKY          SPRKY          ECLPS          ECLPS
+                          JUTAK          JUTAK          WETAL           WETAL
+                          WETAL          WETAL         RIICH            RIICH
+                          RIICH            RIICH           ECLPS          ECLPS
+                          ECLPS          ECLPS          KATMN          KATMN
+                          KATMN          KATMN         BOXXR          BOXXR
+                          BOXXR          BOXXR          PHASE          PHASE
+;

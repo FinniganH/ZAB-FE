@@ -1,0 +1,15 @@
+>[ELP].ATKNN (RNAV)       O              O              O              O
+                          BIVKE          BIVKE          ATKNN          ATKNN
+                          JAPOD          JAPOD          ATKNN          ATKNN
+                          ATKNN          ATKNN          HAVID          HAVID
+                          HAVID          HAVID          ALIBY          ALIBY
+                          ALIBY          ALIBY          NOCHI          NOCHI
+                          ATKNN          ATKNN          ZILEK          ZILEK
+                          ZILEK          ZILEK          FLOGS          FLOGS
+                          ATKNN          ATKNN          JEBSU          JEBSU
+                          JEBSU          JEBSU          FEPOX          FEPOX
+                          FEPOX          FEPOX          RUTER          RUTER
+                          RUTER          RUTER          GREBE          GREBE
+                          FEPOX          FEPOX          BOATY          BOATY
+                          BOATY          BOATY          SLNNK          SLNNK
+;

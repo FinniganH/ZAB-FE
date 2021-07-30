@@ -1,0 +1,2 @@
+- Misc ARTCC STARs        O              O              O              O
+;

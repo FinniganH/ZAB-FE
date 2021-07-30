@@ -1,0 +1,7 @@
+>[FFZ].SACAT  (RNAV)      O              O              O              O
+                          N033.27.29.957 W111.44.02.951 FEVTI          FEVTI
+                          FEVTI          FEVTI          SACAT          SACAT
+                          N033.27.21.237 W111.44.02.810 EHISO          EHISO
+                          EHISO          EHISO          SACAT          SACAT
+                          N033.27.39.000 W111.43.42.000 SACAT          SACAT                          
+;

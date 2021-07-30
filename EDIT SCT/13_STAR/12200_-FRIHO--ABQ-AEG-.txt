@@ -1,0 +1,6 @@
+>FRIHO.[ABQ/AEG]          O              O              O              O
+                          ESPAN          ESPAN          FLYBY          FLYBY
+                          FTI            FTI            FLYBY          FLYBY
+                          FLYBY          FLYBY          FRIHO          FRIHO
+                          FRIHO          FRIHO          ABQ            ABQ
+;

@@ -1,0 +1,6 @@
+>[CFT].SSO (RNAV/ODP)     O              O              O              O
+                          N032.57.10.000 W109.12.37.000 SSO            SSO
+                          N032.57.10.000 W109.12.37.000 HORBU          HORBU
+                          HORBU          HORBU          JILKI          JILKI
+                          JILKI          JILKI          SSO            SSO
+;

@@ -1,0 +1,36 @@
+; ZAB Trinity v2.2, Rev. (AIRAC 2104)
+; Released 11/12/15
+;
+; Thanks to the numerous people 
+; that have contributed time, effort
+; and data to this sector file.
+;
+; Edit Jan.19, 2012 by Ed Sterling (general update, taxi designators and phx RNAVs)
+; Edit Feb. 21, 2012 by Ed Sterling (ELP RNAVs)
+; Edit June 28, 2012 by Ed Sterling (IWA HUUTY RNAV, GEELA6 name, delete CHEZZ RNAV, and Air Refueling Tracks)
+; Edit August 3, 2012 by Ed Sterling (rev'd TFD3, SCOT7, BURRO3, WLDKT2, ATKNN2 and added waypoints JOLAV, NOCHI, OLIIN, WINRR)
+; Edit December 12,2012 by Ed Sterling (Rev'd PHX SID No.s for 8k intial alt; TUS8 SID for CIE deletion)
+; Edit January 12, 2013 by Ed Sterling (Added new ABQ STARs and SIDs and waypoints; PHX CHILY3 for 8k initial; KHMN CLOUD4 and HIGGY2)
+; Edit November 8, 2013 by Ed Sterling (Removed all STAR/SID No.s; Added interfacing DEN & sAT waypoints; added/rev DEN, DFW, SAT, COS SID/STARs; fix several errors)
+; Edit December 17, 2013 by Ed Sterling (Added P50 sectors PC,PJ,PK and seven assoc RNAV waypoints; Updated COLTR arrival and moved two assoc waypoints; added SEZ rnwy)
+; Edit April 22, 2014 by Ed Sterling (Added ELP proced.'s JCOXX & WAZKO; modified ELP proced.'s HSKNS, MOLLY & ATKNN; added KPRC SID PRESCOTT1; added assoc. waypoints)
+; Edit June 10, 2014 by Ed Sterling (Revised KABQ SIDs ATOMK, FYSTA,JEMEZ, MNZNO, RDRNR and STARs KRKEE, LOWBO, LZZRD routings and added some new associated waypoints)
+; Edit August 18, 2014 by Ed Sterling (Added new PHX SIDs/STARS and waypoints published in AIRAC 1410 and revised EAGUL arrival)
+; Edit December 2, 2014 by Ed Sterling (Updated ABQ MVA map; fixed KONM designation; added missing AIRAC 1410 fixes; misc repairs)
+; Edit January 10,2015 by Ed Sterling (Added P50 North mva map and updated the P50 mva map; revised ZAB sector split boundaries)
+; Edit December 12,2015 by Ed Sterling (added quarter format center split; updated ELP MOLLY4; removed KABQ rnwy 17-35)
+; Edit July 1,2016 by Ed Sterling (added DMA SIDs BBALL & MESCA)
+; Edit June 9,2017 by Ed Sterling (Added Chris Knepper PHX & ABQ enhanced airport diagrams; twr'd airport taxi nos.)
+; Edit August 22, 2017 by Ed Sterling (replaced ABQ MVA section with new map with alt's.; deleted Static text mva alts.)
+; Edit March 29,2018 by Ed Sterling (Add BALDY SID; FLG SID; deleted 5 approach fixes at KPHX; add ZIDOG, KEENS, WETAL SIDs & associated fixes; updated ROW MVAs)
+; Edit May 24, 2018 by Ed Sterling (add PHX SIDs:BROAK, ECLPS, PORPE, FYRBD, MRBIL, QUAKY, STRRM, ZEPER; revised to P50 Satillite SIDs: BNYRD, FTHLS, IZZZO, JUDTH, KATMN, LALUZ, MAYSA, SNOBL, YOTES; revised PHX SIDs:  BALDY, KEENS; deleted PHX SIDs WETAL & ZIDOG; added, deleted and revised associated Fixes.)
+; Edit Jan 1, 2019 by Ed Sterling (update AIRAC fixes, add Balloon TFR, delete ZDV sector split; added KPRC SID WNSKI; deleted STAR's GEELA, KOOLY, MAIER, & JCOBS)
+;Edit June 20, 2019 by Ed Sterling (update AIRAC fixes; revised JONHH SID and KPRC WNSKI SID; removed prior deleted STARs  GEELA, KOOLY, MAIER, & JCOBS and newly deleted SILOW SID; ADD DMA1 SID; updated HMN SIDs)
+;Edit May 11, 2020 by Ed Sterling (update AIRAC 2006 fixes; revised ZEPER SID, [P50 SAT].MAYSA (RNAV); LAS KADDY STAR deleted; UKW replaced with VKTRY for DFW; updated airports AMA, ELP, FLG, & TUS (thanks C Knepper)
+;Edit May 24, 2020 by Ed Sterling ( Updated P50 MVA map; updated ABQ MVA map; updated ZAB MIA map; updated obstructions; updated ILS map for KGUP and KSAF)
+;Edit Aug 01,2020 by Ed Sterling (Rev KZUN to XNI; rev'd KAMA taxiways; ABQ SID JETOK deleted; fixed LZZRD route error; deleted KLUF SIDs TANKZ & TIRON; added back in the missing ELP SIDs & STARs)
+;Last Edit May 06,2021 (Fix maintenance; added ZDV Area 3&4 split boundary; deleted TYL VOR; added back KFHU airport diagram; added arpt rwy center lines; updated KLAS SIDs/STARs; added NORDY LUF SID; added IZZYY SID HMN; updated MVA maps for all but PHX)
+;Edit July 26, 2021 (Added Handoff maps for neighbouring ARTCCs)
+;
+;Color is (BLUE x 65536) + (GREEN x 256) + RED
+;

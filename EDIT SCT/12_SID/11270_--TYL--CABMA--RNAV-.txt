@@ -1,0 +1,5 @@
+>[TYL].CABMA (RNAV)       O              O              O              O
+                          KTYL           KTYL           CAMBA          CAMBA
+                          CAMBA          CAMBA          SJN            SJN
+                          CAMBA          CAMBA          AVANS          AVANS
+;

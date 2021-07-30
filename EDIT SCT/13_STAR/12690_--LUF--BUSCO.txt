@@ -1,0 +1,6 @@
+>[LUF].BUSCO              O              O              O              O
+                          LUF            LUF            BUSCO          BUSCO
+                          BUSCO          BUSCO          FLIER          FLIER
+                          BUSCO          BUSCO          ZIRUK          ZIRUK
+                          ZIRUK          ZIRUK          BUGGS          BUGGS
+;

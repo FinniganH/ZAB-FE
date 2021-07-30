@@ -1,0 +1,13 @@
+>[PHX].BROAK (RNAV)       O              O              O              O
+                          SPRKY          SPRKY          BROAK          BROAK
+                          JUTAK          JUTAK          WETAL           WETAL
+                          WETAL          WETAL         RIICH            RIICH
+                          RIICH            RIICH           PYPPE           PYPPE
+                          PYPPE           PYPPE         BARLL           BARLL   
+                          BARLL           BARLL          BROAK          BROAK
+                          BROAK          BROAK          FTHLS          FTHLS
+                          FTHLS          FTHLS          JNIPR          JNIPR
+                          JNIPR          JNIPR          JSSUA          JSSUA
+                          JSSUA          JSSUA          ABQ            ABQ
+                          JSSUA          JSSUA          MAXXO          MAXXO
+;

@@ -1,0 +1,11 @@
+>[ELP].MOLLY (RNAV)       O              O              O              O
+                          GREBE          GREBE          JEVOS          JEVOS
+                          JEVOS          JEVOS          CIRKA          CIRKA
+                          CIRKA          CIRKA          WANAB          WANAB
+                          TEEES          TEEES          JOMUB          JOMUB
+                          JOMUB          JOMUB          WANAB          WANAB
+                          WANAB          WANAB          WOBEN          WOBEN
+                          WOBEN          WOBEN          MOLLY          MOLLY
+                          MOLLY          MOLLY          KOACH          KOACH
+                          MOLLY          MOLLY          WIKKR          WIKKR
+;

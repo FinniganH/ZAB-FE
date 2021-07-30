@@ -1,0 +1,4 @@
+>[P13].IZTIR (RNAV/ODP)   O              O              O              O
+                          HAWRA          HAWRA          RIPUW          RIPUW
+                          RIPUW          RIPUW          IZTIR          IZTIR
+;

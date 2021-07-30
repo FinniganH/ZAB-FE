@@ -1,0 +1,10 @@
+>[ELP].JCOXX (RNAV)       O              O              O              O
+                          JCOXX          JCOXX          MRQEZ          MRQEZ
+                          MRQEZ          MRQEZ          HBACK          HBACK
+                          MRQEZ          MRQEZ          TELKE          TELKE
+                          JCOXX          JCOXX          SNTRS          SNTRS
+                          SNTRS          SNTRS          RUTER          RUTER
+                          RUTER          RUTER          GREBE          GREBE
+                          RUTER          RUTER          BOATY          BOATY
+                          BOATY          BOATY          SLNNK          SLNNK
+;

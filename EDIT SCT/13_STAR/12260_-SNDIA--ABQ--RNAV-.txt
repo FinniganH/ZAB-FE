@@ -1,0 +1,12 @@
+>SNDIA.[ABQ](RNAV)         O              O              O              O
+                          DATME          DATME          EBIDE          EBIDE
+                          EBIDE          EBIDE          ESPAN          ESPAN
+                          ESPAN          ESPAN          DETEC          DETEC
+                          DETEC          DETEC          SNDIA          SNDIA
+                          TAMEY          TAMEY          FITEE          FITEE
+                          FITEE          FITEE          SNDIA          SNDIA
+                          SNDIA          SNDIA          VLCNO          VLCNO
+                          VLCNO          VLCNO          ASIDE          ASIDE
+                          ASIDE          ASIDE          CADAT          CADAT
+                          ASIDE          ASIDE          CRSTN          CRSTN
+;

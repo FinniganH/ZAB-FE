@@ -1,0 +1,8 @@
+>[LAS].COWBY (RNAV)       O              O              O              O
+                          COWBY          COWBY          MOSBI          MOSBI
+                          MOSBI          MOSBI          GUP            GUP
+                          COWBY          COWBY          CUTRO          CUTRO
+                          CUTRO          CUTRO          INW            INW
+                          COWBY          COWBY          NAVHO          NAVHO
+                          NAVHO          NAVHO          DRK            DRK
+;

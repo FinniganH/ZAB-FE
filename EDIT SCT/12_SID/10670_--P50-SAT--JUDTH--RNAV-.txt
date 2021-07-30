@@ -1,0 +1,4 @@
+>[P50 SAT].JUDTH (RNAV)       O              O              O              O
+                          GBN            GBN            JUDTH          JUDTH
+                          JUDTH          JUDTH          MOHAK          MOHAK
+;
