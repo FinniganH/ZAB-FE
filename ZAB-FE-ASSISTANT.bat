@@ -922,29 +922,29 @@ ECHO     -----------------------------------------------------------------------
 ECHO.
 ECHO         VRC:                                    EDIT SCT:
 ECHO.
-ECHO         [AIRPORT].sct2                ---       05_AIRPORT\[AIRPORT].txt
+ECHO         [AIRPORT].sct2                ---       06_AIRPORT\[AIRPORT].txt
 ECHO.           
-ECHO         [ARTCC HIGH].sct2             ---       09_ARTCC_HIGH\[ARTCC HIGH].txt
+ECHO         [ARTCC HIGH].sct2             ---       10_ARTCC_HIGH\[ARTCC HIGH].txt
 ECHO.           
-ECHO         [ARTCC LOW].sct2              ---       10_ARTCC_LOW\[ARTCC LOW].txt
+ECHO         [ARTCC LOW].sct2              ---       11_ARTCC_LOW\[ARTCC LOW].txt
 ECHO.           
-ECHO         [HIGH AIRWAY].sct2            ---       14_HIGH_AIRWAY\[HIGH AIRWAY].txt
+ECHO         [HIGH AIRWAY].sct2            ---       15_HIGH_AIRWAY\[HIGH AIRWAY].txt
 ECHO.           
-ECHO         [LOW AIRWAY].sct2             ---       13_LOW_AIRWAY\[LOW AIRWAY].txt
+ECHO         [LOW AIRWAY].sct2             ---       14_LOW_AIRWAY\[LOW AIRWAY].txt
 rem ECHO.           
-rem ECHO         [LABELS].sct2                 ---       17_LABELS\[LABELS].txt
+rem ECHO         [LABELS].sct2                 ---       18_LABELS\[LABELS].txt
 ECHO.           
-ECHO         [NDB].sct2                    ---       04_NDB\[NDB].txt
+ECHO         [NDB].sct2                    ---       05_NDB\[NDB].txt
 ECHO.           
-ECHO         [VOR].sct2                    ---       03_VOR\[VOR].txt
+ECHO         [VOR].sct2                    ---       04_VOR\[VOR].txt
 ECHO.           
-ECHO         [RUNWAY].sct2                 ---       06_RUNWAY\[RUNWAY].txt
+ECHO         [RUNWAY].sct2                 ---       07_RUNWAY\[RUNWAY].txt
 ECHO.           
-ECHO         [FIXES].sct2                  ---       07_FIXES\[FIXES].txt
+ECHO         [FIXES].sct2                  ---       08_FIXES\[FIXES].txt
 ECHO.           
-ECHO         000_All_DP_Combined.sct2      ---       11_SID\*_All_DP_Combined.sct2
+ECHO         000_All_DP_Combined.sct2      ---       12_SID\*_All_DP_Combined.sct2
 ECHO.           
-ECHO         000_All_STAR_Combined.sct2    ---       11_SID\*_All_STAR_Combined.sct2
+ECHO         000_All_STAR_Combined.sct2    ---       13_STAR\*_All_STAR_Combined.sct2
 ECHO.
 ECHO     -------------------------------------------------------------------------------
 ECHO.
@@ -1074,7 +1074,7 @@ SET FILE_NAME_ENDING=_FAA CHART RECALL.txt
 
 :VRC_APT
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\05_AIRPORT
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\06_AIRPORT
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1085,7 +1085,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_ARTCC_HI
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\09_ARTCC_HIGH
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\10_ARTCC_HIGH
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1096,7 +1096,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_ARTCC_LO
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\10_ARTCC_LOW
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\11_ARTCC_LOW
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1107,7 +1107,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_AWY_HI
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\14_HIGH_AIRWAY
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\15_HIGH_AIRWAY
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1118,7 +1118,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_AWY_LO
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\13_LOW_AIRWAY
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\14_LOW_AIRWAY
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1129,7 +1129,7 @@ CD "%SOURCE_DIR%\VRC"
 
 rem :VRC_LABELS
 
-rem SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\17_LABELS
+rem SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\18_LABELS
 
 rem CD "%TARGET_DIR%"
 rem 	DEL /Q *.txt>nul
@@ -1140,7 +1140,7 @@ rem 	ECHO VRC - LABELS
 
 :VRC_NDB
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\04_NDB
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\05_NDB
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1151,7 +1151,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_VOR
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\03_VOR
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\04_VOR
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1162,7 +1162,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_RWY
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\06_RUNWAY
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\07_RUNWAY
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1173,7 +1173,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_FIX
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\07_FIXES
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\08_FIXES
 
 CD "%TARGET_DIR%"
 	DEL /Q *.txt>nul
@@ -1184,7 +1184,7 @@ CD "%SOURCE_DIR%\VRC"
 
 :VRC_SID
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\11_SID
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\12_SID
 SET FILE_NAME_ENDING=_All_DP_Combined.txt
 
 CD "%TARGET_DIR%"
@@ -1198,7 +1198,7 @@ CD "%SOURCE_DIR%\VRC\[SID]"
 
 :VRC_STAR
 
-SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\11_SID
+SET TARGET_DIR=%userprofile%\OneDrive\Documents\Github\ZAB-FE\EDIT SCT\12_SID
 SET FILE_NAME_ENDING=_All_STAR_Combined.txt
 
 CD "%TARGET_DIR%"
@@ -1444,87 +1444,92 @@ ECHO.
 ECHO --- COMPLETED: ---
 ECHO.
 
-CD "%EDIT_DIR%\01_COLORS"
+CD "%EDIT_DIR%\01_STARTING"
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\02_INFO
+CD "%EDIT_DIR%\02_COLORS"
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\03_VOR
+CD "%EDIT_DIR%\03_INFO
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\04_NDB
+CD "%EDIT_DIR%\04_VOR
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\05_AIRPORT
+CD "%EDIT_DIR%\05_NDB
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\06_RUNWAY
+CD "%EDIT_DIR%\06_AIRPORT
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\07_FIXES
+CD "%EDIT_DIR%\07_RUNWAY
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\08_ARTCC
+CD "%EDIT_DIR%\08_FIXES
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\09_ARTCC_HIGH
+CD "%EDIT_DIR%\09_ARTCC
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\10_ARTCC_LOW
+CD "%EDIT_DIR%\10_ARTCC_HIGH
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\11_SID
+CD "%EDIT_DIR%\11_ARTCC_LOW
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\12_STAR
+CD "%EDIT_DIR%\12_SID
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\13_LOW_AIRWAY
+CD "%EDIT_DIR%\13_STAR
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\14_HIGH_AIRWAY
+CD "%EDIT_DIR%\14_LOW_AIRWAY
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\15_GEO
+CD "%EDIT_DIR%\15_HIGH_AIRWAY
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\16_REGIONS
+CD "%EDIT_DIR%\16_GEO
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 
-CD "%EDIT_DIR%\17_LABELS
+CD "%EDIT_DIR%\17_REGIONS
+type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
+echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
+echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
+
+CD "%EDIT_DIR%\18_LABELS
 type "*.txt" >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"
 echo.  >> "%PR_SCT_DIR%\ZAB SECTOR.SCT2"

@@ -20,7 +20,7 @@
         <BcgMenuItem Label="P50 EAST" />
         <BcgMenuItem Label="" />
         <BcgMenuItem Label="" />
-        <BcgMenuItem Label="" />
+        <BcgMenuItem Label="RW SECTORS" />
         <BcgMenuItem Label="*APT LABELS" />
 		<BcgMenuItem Label="VOR LABELS" />
       </Items>
@@ -46,7 +46,7 @@
         <FilterMenuItem LabelLine1="P50" LabelLine2="EAST" />
         <FilterMenuItem LabelLine1="" LabelLine2="" />
         <FilterMenuItem LabelLine1="" LabelLine2="" />
-        <FilterMenuItem LabelLine1="" LabelLine2="" />
+        <FilterMenuItem LabelLine1="RW" LabelLine2="SECTORS" />
 		<FilterMenuItem LabelLine1="*TAXI" LabelLine2="LABELS" />
         <FilterMenuItem LabelLine1="VOR" LabelLine2="LABELS" />
       </Items>
