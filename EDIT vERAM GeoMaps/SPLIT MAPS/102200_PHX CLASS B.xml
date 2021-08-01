@@ -1,5 +1,5 @@
         <GeoMapObject Description="PHX CLASS B" TdmOnly="false">
-          <LineDefaults Bcg="7" Filters="7" Style="Solid" Thickness="1" />
+          <LineDefaults Bcg="14" Filters="14" Style="Solid" Thickness="1" />
           <Elements>
             <Element xsi:type="Line" Filters="" StartLat="0" StartLon="-0" EndLat="0" EndLon="-0" />
             <Element xsi:type="Line" Filters="" StartLat="33.5094036" StartLon="-112.1474728" EndLat="33.5094386" EndLon="-112.1124689" />

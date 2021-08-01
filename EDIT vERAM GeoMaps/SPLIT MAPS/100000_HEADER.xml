@@ -34,17 +34,17 @@
         <FilterMenuItem LabelLine1="*JET" LabelLine2="ROUTES" />
         <FilterMenuItem LabelLine1="*VICTOR" LabelLine2="AIRWAYS" />
         <FilterMenuItem LabelLine1="P50" LabelLine2="WEST" />
-        <FilterMenuItem LabelLine1="SAT" LabelLine2="APPCH" />
-        <FilterMenuItem LabelLine1="PHX" LabelLine2="CLASS B" />
+        <FilterMenuItem LabelLine1="ABQ" LabelLine2="WEST" />
+        <FilterMenuItem LabelLine1="SAT" LabelLine2="APPRCH" />
         <FilterMenuItem LabelLine1="TRACON" LabelLine2="BORDER" />
         <FilterMenuItem LabelLine1="*APT" LabelLine2="DGM" />
         <FilterMenuItem LabelLine1="*APT" LabelLine2="" />
         <FilterMenuItem LabelLine1="MIA" LabelLine2="" />
         <FilterMenuItem LabelLine1="MVA" LabelLine2="" />
         <FilterMenuItem LabelLine1="RESTRICTED" LabelLine2="AREA" />
-        <FilterMenuItem LabelLine1="" LabelLine2="" />
+        <FilterMenuItem LabelLine1="PHX" LabelLine2="BRAVO" />
         <FilterMenuItem LabelLine1="P50" LabelLine2="EAST" />
-        <FilterMenuItem LabelLine1="" LabelLine2="" />
+        <FilterMenuItem LabelLine1="ABQ" LabelLine2="EAST" />
         <FilterMenuItem LabelLine1="" LabelLine2="" />
         <FilterMenuItem LabelLine1="RW" LabelLine2="SECTORS" />
 		<FilterMenuItem LabelLine1="*TAXI" LabelLine2="LABELS" />
