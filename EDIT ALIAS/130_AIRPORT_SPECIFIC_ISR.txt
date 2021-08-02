@@ -662,6 +662,12 @@
 
 .BIFR22F .FF PIERS HIMUP CULAC
 
+; BIF VOR RWY 22
+
+.BIFV22 .FD BIF_VOR RWY 22
+
+.BIFV22F .FF EWM
+
 ;-------------
 ; CHD AIRPORT
 ;-------------
