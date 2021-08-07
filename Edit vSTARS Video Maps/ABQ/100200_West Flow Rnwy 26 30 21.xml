@@ -4,6 +4,7 @@
       <NamedColor Red="85" Green="85" Blue="85" Name="RVM" />
     </Colors>
   <Elements>
+    <Element xsi:type="Line" Color="R80G80B40" StartLon="-0" StartLat="0" EndLon="-0" EndLat="0" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.4699736" StartLat="34.1104372" EndLon="-106.4725872" EndLat="34.1289461" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.4749983" StartLat="34.1193003" EndLon="-106.4824453" EndLat="34.1185903" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.4675575" StartLat="34.1200522" EndLon="-106.4749983" EndLat="34.1193003" Style="Solid" Thickness="0" />
@@ -187,7 +188,6 @@
     <Element xsi:type="Line" Color="RVM" StartLon="-106.020145" StartLat="34.6579642" EndLon="-106.0357975" EndLat="34.6712319" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.0182472" StartLat="34.6597875" EndLon="-106.0376953" EndLat="34.6694086" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-107.11641" StartLat="34.6678336" EndLon="-107.0097164" EndLat="34.5504181" Style="Solid" Thickness="0" />
-    <Element xsi:type="Line" Color="RVM" StartLon="-106.8180183" StartLat="34.6696417" EndLon="-106.8198456" EndLat="34.3478825" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.1526264" StartLat="34.7209244" EndLon="-106.1391206" EndLat="34.7350736" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.6899042" StartLat="34.74135" EndLon="-106.6839281" EndLat="34.7593106" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.6830233" StartLat="34.7415378" EndLon="-106.6906994" EndLat="34.7591228" Style="Solid" Thickness="0" />
@@ -398,7 +398,6 @@
     <Element xsi:type="Line" Color="RVM" StartLon="-105.6764708" StartLat="35.0098219" EndLon="-105.6773389" EndLat="35.0086714" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-107.4190678" StartLat="35.0098319" EndLon="-107.4185319" EndLat="35.0119428" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-105.6676522" StartLat="35.01025" EndLon="-105.6689881" EndLat="35.0110414" Style="Solid" Thickness="0" />
-    <Element xsi:type="Line" Color="RVM" StartLon="-107.8232925" StartLat="35.0106656" EndLon="-107.3513025" EndLat="35.0273072" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-105.6752575" StartLat="35.0107369" EndLon="-105.6764708" EndLat="35.0098219" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-105.6689881" StartLat="35.0110414" EndLon="-105.6705336" EndLat="35.0115067" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-105.6737892" StartLat="35.0113486" EndLon="-105.6752575" EndLat="35.0107369" Style="Solid" Thickness="0" />
@@ -497,7 +496,6 @@
     <Element xsi:type="Line" Color="RVM" StartLon="-106.3716311" StartLat="35.0427447" EndLon="-106.3920156" EndLat="35.0428739" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.4124" StartLat="35.0429997" EndLon="-106.4327847" EndLat="35.0431222" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.4531694" StartLat="35.0432411" EndLon="-106.4735539" EndLat="35.0434481" Style="Solid" Thickness="0" />
-    <Element xsi:type="Line" Color="RVM" StartLon="-106.8272269" StartLat="35.0435019" EndLon="-107.2915106" EndLat="35.0292172" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.4939386" StartLat="35.0435603" EndLon="-106.5143233" EndLat="35.0436689" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.8272533" StartLat="35.0435703" EndLon="-106.8270431" EndLat="35.0455964" Style="Solid" Thickness="0" />
     <Element xsi:type="Line" Color="RVM" StartLon="-106.5347083" StartLat="35.0437742" EndLon="-106.5550933" EndLat="35.0438761" Style="Solid" Thickness="0" />

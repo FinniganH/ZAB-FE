@@ -99,7 +99,7 @@
 
 
 ; SOP Quick Reference Page
-.ABQSOP .OPENURL https://zabartcc.sfo3.digitaloceanspaces.com/downloads/1617826075996-PHX%20ATCT%20SOP.pdf
+.ABQSOP .OPENURL https://zabartcc.sfo3.digitaloceanspaces.com/downloads/1617826157715-ABQ%20ATCT%20SOP.pdf
 .ELPSOP .OPENURL https://zabartcc.sfo3.digitaloceanspaces.com/downloads/1617826219371-El%20Paso%20SOP.pdf
 .PHXSOP .OPENURL https://zabartcc.sfo3.digitaloceanspaces.com/downloads/1617826075996-PHX%20ATCT%20SOP.pdf
 .P50SOP .OPENURL https://zabartcc.sfo3.digitaloceanspaces.com/downloads/1617826035359-P50%20TRACON%20SOP.pdf
@@ -173,6 +173,11 @@
 .idHUKOBU .msg ZAB_ISR *** 3LD: HUA ___ TELEPHONE: HUKOBU
 .idVCP .MSG ZAB_ISR *** 3LD: VCP ___ TELEPHONY: ALPACA
 .idALPACA .MSG ZAB_ISR *** 3LD: VCP ___ TELEPHONY: ALPACA
+
+;Mexico Navaids
+.idCJS .msg ZAB_ISR: *** CJS 116.70 CIUDAD JUAREZ VOR/DME
+.idCUU .msg ZAB_ISR: *** CUU 114.20 CHIHUAHUA VOR/DME
+.idHMO .msg ZAB_ISR: *** TUS 112.80 HERMOSILLO VOR/DME
 
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
